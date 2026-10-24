@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: Citer cette étude en conservant les sources ADEME, API Geo et INSEE et les
+  limites méthodologiques.
+type: dataset
+title: Cartographie 2026 de la couverture d'artisans RGE par commune vs nombre de
+  logements
+authors:
+- name: Legibat - Observatoire de la Conformité BTP
+version: '2026-10-24'
+license: etalab-2.0
+url: https://legibat.fr/etude-couverture-rge
+date-released: '2026-10-24'
+repository-code: https://github.com/Sotani77/open-data-conformite-rge-france

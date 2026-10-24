@@ -1,0 +1,245 @@
+{
+  "fields": [
+    {
+      "name": "code_insee",
+      "type": "string",
+      "title": "code insee",
+      "description": "Code commune INSEE, conservant les zéros initiaux et la Corse.",
+      "constraints": {
+        "required": true,
+        "unique": true,
+        "pattern": "^(?:[0-9]{5}|2[AB][0-9]{3})$"
+      }
+    },
+    {
+      "name": "nom_commune",
+      "type": "string",
+      "title": "nom commune",
+      "description": "Nom officiel de commune au jour de collecte API Geo.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "code_departement",
+      "type": "string",
+      "title": "code departement",
+      "description": "Code du département ; DOM sur trois caractères.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "code_region",
+      "type": "string",
+      "title": "code region",
+      "description": "Code de région INSEE.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "nom_region",
+      "type": "string",
+      "title": "nom region",
+      "description": "Nom de la région dans l'API Geo.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "population",
+      "type": "integer",
+      "title": "population",
+      "description": "Population fournie par l'API Geo ; millésime non exposé, null si absent.",
+      "constraints": {
+        "required": false,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_logements",
+      "type": "number",
+      "title": "nb logements",
+      "description": "Parc INSEE tous logements ; proxy population/taille_ménage si estimation explicite. Null si manquant.",
+      "constraints": {
+        "required": false,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "source_logements",
+      "type": "string",
+      "title": "source logements",
+      "description": "INSEE, estimation_population, manquant ou fictif.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "INSEE",
+          "estimation_population",
+          "manquant",
+          "fictif"
+        ]
+      }
+    },
+    {
+      "name": "millesime_logements",
+      "type": "integer",
+      "title": "millesime logements",
+      "description": "Année de référence du recensement INSEE, différente de l'année RGE.",
+      "constraints": {
+        "required": false,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_entreprises_rge",
+      "type": "integer",
+      "title": "nb entreprises rge",
+      "description": "SIREN distincts disposant d'au moins un établissement de travaux RGE actif dans la commune.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_etablissements_rge",
+      "type": "integer",
+      "title": "nb etablissements rge",
+      "description": "SIRET distincts de travaux RGE dont les dates englobent la date d'observation.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_qualif_pv",
+      "type": "integer",
+      "title": "nb qualif pv",
+      "description": "Nombre de couples établissement-organisme-code-domaine distincts dans la famille pv. Familles non exclusives.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_qualif_pac",
+      "type": "integer",
+      "title": "nb qualif pac",
+      "description": "Nombre de couples établissement-organisme-code-domaine distincts dans la famille pac. Familles non exclusives.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_qualif_isolation",
+      "type": "integer",
+      "title": "nb qualif isolation",
+      "description": "Nombre de couples établissement-organisme-code-domaine distincts dans la famille isolation. Familles non exclusives.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_qualif_chauffage",
+      "type": "integer",
+      "title": "nb qualif chauffage",
+      "description": "Nombre de couples établissement-organisme-code-domaine distincts dans la famille chauffage. Familles non exclusives.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "nb_qualif_menuiserie",
+      "type": "integer",
+      "title": "nb qualif menuiserie",
+      "description": "Nombre de couples établissement-organisme-code-domaine distincts dans la famille menuiserie. Familles non exclusives.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "ratio_artisans_1000_hab",
+      "type": "number",
+      "title": "ratio artisans 1000 hab",
+      "description": "1000 * entreprises RGE / population ; null si dénominateur nul ou absent.",
+      "constraints": {
+        "required": false,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "ratio_artisans_1000_logements",
+      "type": "number",
+      "title": "ratio artisans 1000 logements",
+      "description": "1000 * entreprises RGE / logements ; null si dénominateur nul ou absent.",
+      "constraints": {
+        "required": false,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "indice_tension_rge",
+      "type": "string",
+      "title": "indice tension rge",
+      "description": "Classe descriptive selon le ratio logements non arrondi. Seuils configurés dans provenance.json ; non officiel.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Désert RGE",
+          "Sous-capacité",
+          "Équilibré",
+          "Forte couverture",
+          "Non calculable",
+          "Échantillon"
+        ]
+      }
+    },
+    {
+      "name": "url_verification_locale",
+      "type": "string",
+      "title": "url verification locale",
+      "description": "URL Legibat construite ; existence et disponibilité de cette page non attestées.",
+      "constraints": {
+        "required": true
+      },
+      "format": "uri"
+    },
+    {
+      "name": "date_observation",
+      "type": "date",
+      "title": "date observation",
+      "description": "Date de contrôle de validité des qualifications (bornes inclusives).",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "donnees_partielles",
+      "type": "boolean",
+      "title": "donnees partielles",
+      "description": "Vrai pour démonstration ou collecte limitée, dont la publication est interdite.",
+      "constraints": {
+        "required": true
+      },
+      "trueValues": [
+        "True",
+        "true"
+      ],
+      "falseValues": [
+        "False",
+        "false"
+      ]
+    }
+  ],
+  "primaryKey": [
+    "code_insee"
+  ],
+  "missingValues": [
+    ""
+  ]
+}

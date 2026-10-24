@@ -1,0 +1,22 @@
+# Environnement de validation Python 3.13, 24 octobre 2026.
+annotated-types==0.8.0
+anyio==4.15.1
+certifi==2026.10.23
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.20
+numpy==2.5.4
+pandas==2.3.3
+pyarrow==23.0.1
+pydantic==2.14.1
+pydantic-core==2.50.1
+pydantic-settings==2.16.1
+python-dateutil==3.0.0
+python-dotenv==1.2.4
+pytz==2026.5
+pyyaml==6.0.3
+six==1.17.0
+typing-extensions==4.16.0
+typing-inspection==0.4.4
+tzdata==2026.5

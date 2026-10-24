@@ -1,5 +1,5 @@
 {
-  "status": "published",
+  "status": "data-gouv-published",
   "dry_run": false,
   "dataset_id": "6adc25ea40eac239ba1c33ba",
   "dataset_url": "https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements",
@@ -10,7 +10,7 @@
       "title": "schema.json",
       "format": "json",
       "type": "documentation",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-032844/schema.json",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035420/schema.json",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/1d93da96-0114-4453-bda4-0b4fd1fd3519",
       "preview_url": null
     },
@@ -19,25 +19,25 @@
       "title": "cartographie-2026-couverture-artisans-rge-communes.csv",
       "format": "csv",
       "type": "main",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033004/cartographie-2026-couverture-artisans-rge-communes.csv",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035422/cartographie-2026-couverture-artisans-rge-communes.csv",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/6d595024-2c9c-43d2-b30f-3b2a393ae501",
-      "preview_url": null
+      "preview_url": "https://explore.data.gouv.fr/fr/resources/6d595024-2c9c-43d2-b30f-3b2a393ae501"
     },
     {
       "id": "6d7532c0-ae4d-4b49-8c9c-19403621235f",
       "title": "cartographie-2026-couverture-artisans-rge-communes-comma.csv",
       "format": "csv",
       "type": "main",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033155/cartographie-2026-couverture-artisans-rge-communes-comma.csv",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035423/cartographie-2026-couverture-artisans-rge-communes-comma.csv",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/6d7532c0-ae4d-4b49-8c9c-19403621235f",
-      "preview_url": null
+      "preview_url": "https://explore.data.gouv.fr/fr/resources/6d7532c0-ae4d-4b49-8c9c-19403621235f"
     },
     {
       "id": "7e5de73b-44f9-49b4-9a27-6682c27e7612",
       "title": "cartographie-2026-couverture-artisans-rge-communes.parquet",
       "format": "parquet",
       "type": "main",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033221/cartographie-2026-couverture-artisans-rge-communes.parquet",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035424/cartographie-2026-couverture-artisans-rge-communes.parquet",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/7e5de73b-44f9-49b4-9a27-6682c27e7612",
       "preview_url": null
     },
@@ -46,7 +46,7 @@
       "title": "synthese-departementale-rge-2026.json",
       "format": "json",
       "type": "main",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033223/synthese-departementale-rge-2026.json",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035425/synthese-departementale-rge-2026.json",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/83509300-fdc0-43c9-a278-5fe1e3623711",
       "preview_url": null
     },
@@ -55,7 +55,7 @@
       "title": "synthese-regionale-rge-2026.json",
       "format": "json",
       "type": "main",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033226/synthese-regionale-rge-2026.json",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035425/synthese-regionale-rge-2026.json",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/c37499aa-fb41-403e-bd43-b8fb0f15edf3",
       "preview_url": null
     },
@@ -64,7 +64,7 @@
       "title": "quality-report.json",
       "format": "json",
       "type": "documentation",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033228/quality-report.json",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035426/quality-report.json",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/dbe29aa9-6a3e-400e-ab11-a2ae95f9139f",
       "preview_url": null
     },
@@ -73,7 +73,7 @@
       "title": "provenance.json",
       "format": "json",
       "type": "documentation",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033229/provenance.json",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035427/provenance.json",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/f1fdffcb-d9db-4501-9d6e-7b0754b4b4bc",
       "preview_url": null
     },
@@ -82,7 +82,7 @@
       "title": "manifest.json",
       "format": "json",
       "type": "documentation",
-      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-033231/manifest.json",
+      "url": "https://static.data.gouv.fr/resources/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements/20261024-035427/manifest.json",
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/accf07c9-e64c-4517-b09d-b2008e409ba6",
       "preview_url": null
     },
@@ -95,8 +95,5 @@
       "latest": "https://www.data.gouv.fr/api/1/datasets/r/15013794-2600-4941-b252-4d5ff6432430",
       "preview_url": null
     }
-  ],
-  "github_data_commit": "69e9e359f7854f5122c4093d4193ee3542363053",
-  "pages_url": "https://sotani77.github.io/open-data-conformite-rge-france/",
-  "pages_status": null
+  ]
 }

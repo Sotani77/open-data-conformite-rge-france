@@ -4,7 +4,7 @@
   "ademe_url": "https://data.ademe.fr/data-fair/api/v1/datasets/liste-des-entreprises-rge-2",
   "ademe_data_updated_at": "2026-10-24T03:01:37.489Z",
   "ademe_total": 157930,
-  "collected_at": "2026-10-24T03:28:07.981777+00:00",
+  "collected_at": "2026-10-24T03:53:40.068490+00:00",
   "geo_url": "https://geo.api.gouv.fr/communes",
   "population_millesime": "non fourni par l'API Geo ; date de collecte conservée",
   "ademe_license": {

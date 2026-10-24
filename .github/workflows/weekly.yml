@@ -1,0 +1,63 @@
+name: Actualisation hebdomadaire RGE
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 7 * * 1'
+      timezone: Europe/Paris
+concurrency:
+  group: rge-publication
+  cancel-in-progress: false
+permissions:
+  contents: read
+jobs:
+  publish:
+    if: github.repository == 'Sotani77/open-data-conformite-rge-france'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      DATAGOUV_ORG_ID: 6adc22e83697fc3bde2f1878
+      GITHUB_OWNER: ${{ github.repository_owner }}
+      GITHUB_REPO: ${{ github.event.repository.name }}
+      GITHUB_BRANCH: ${{ github.event.repository.default_branch }}
+      GITHUB_TRANSPORT: git
+      HTTP_TIMEOUT: '300'
+      HOUSING_YEAR: '2023'
+      HOUSING_GEO_YEAR: '2026'
+      PYTHONUNBUFFERED: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Installer les dépendances
+        run: python -m pip install -r requirements.txt
+      - name: Vérifier la configuration
+        env:
+          DATAGOUV_API_KEY: ${{ secrets.DATAGOUV_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.RGE_GITHUB_TOKEN }}
+        run: python -c "from config import Settings; Settings().require_publication()"
+      - name: Collecter et publier les données
+        run: python main.py --publish --source live
+        env:
+          DATAGOUV_API_KEY: ${{ secrets.DATAGOUV_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.RGE_GITHUB_TOKEN }}
+      - name: Vérifier data.gouv.fr, GitHub et GitHub Pages
+        run: python verify_publication.py --wait-seconds 600
+        env:
+          GITHUB_TOKEN: ${{ secrets.RGE_GITHUB_TOKEN }}
+      - name: Conserver les diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rge-run-${{ github.run_id }}
+          retention-days: 30
+          include-hidden-files: true
+          path: |
+            publication.json
+            dist_data/quality-report.json
+            dist_data/provenance.json
+            work/publication-verification.json
+            .state/publication.json

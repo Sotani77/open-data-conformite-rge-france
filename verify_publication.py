@@ -54,9 +54,13 @@ def verify(root, settings, wait_seconds):
         public.request("GET", publication["github_url"])
         report["dataset_url"] = dataset["page"]
         report["downloads"] = []
-        for path in sorted((root / "dist_data").iterdir()):
-            if not path.is_file():
-                continue
+        manifest = json.loads((root / "dist_data/manifest.json").read_text("utf8"))
+        # An annual rollover can leave earlier editions in Git. Only this run's
+        # manifest belongs to the current annual data.gouv.fr dataset.
+        for name in sorted({*manifest, "manifest.json"}):
+            if Path(name).name != name:
+                raise PipelineError("Chemin invalide dans le manifeste")
+            path = root / "dist_data" / name
             resources = [r for r in dataset["resources"] if r.get("title") == path.name]
             if len(resources) != 1:
                 raise PipelineError(f"Ressource absente ou ambiguë : {path.name}")

@@ -128,7 +128,7 @@ class DataGouvClient(Api):
             "organization": org["id"],
             "tags": TAGS,
             "license": "lov2",
-            "frequency": "monthly",
+            "frequency": "weekly",
             "private": False,
             "spatial": {"zones": ["country:fr"], "granularity": "fr:commune"},
             "temporal_coverage": {"start": s.as_of.isoformat(), "end": s.as_of.isoformat()},

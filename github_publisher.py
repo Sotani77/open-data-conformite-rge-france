@@ -176,6 +176,7 @@ def source_files(root: Path):
         "datagouv_client.py",
         "github_publisher.py",
         "github_git_transport.py",
+        "verify_publication.py",
         "landing_page_generator.py",
         "metadata.py",
         "requirements.txt",

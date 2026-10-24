@@ -184,23 +184,37 @@ publication local indique une exécution incomplète si une étape distante éch
 Codes de sortie : `0` pour réussite locale ou publication, `1` pour échec de
 traitement/publication, `2` pour arguments ou configuration invalides.
 
-## 6. Mise à jour mensuelle
+## 6. Mise à jour hebdomadaire
 
-Le workflow `.github/workflows/monthly.yml` est livré, mais n'est pas envoyé par le
-jeton d'exploitation du pipeline. L'installer dans le dépôt avec votre procédure
-habituelle (interface GitHub ou commit Git autorisé). Cette séparation évite
-d'exiger le droit Workflows pour chaque mise à jour des données.
+Le workflow `.github/workflows/weekly.yml` planifie la publication chaque lundi
+à **7 h 23, heure de Paris**, avec adaptation automatique à l'heure d'été/hiver.
+Il fonctionne sur les serveurs GitHub, même lorsque l'ordinateur local est éteint.
+Son déclenchement manuel est accessible dans Actions → Actualisation hebdomadaire RGE
+→ Run workflow. Il ne s'exécute pas dans les forks.
 
-Configurer dans GitHub : secrets `DATAGOUV_API_KEY` et `RGE_GITHUB_TOKEN`, variables
-`DATAGOUV_ORG_ID`, `HOUSING_YEAR`, `HOUSING_GEO_YEAR` et, si création d'organisation,
-le SIREN et l'URL du logo. Définir `ENABLE_RGE_PUBLICATION=true` pour activer
-l'exécution. Le workflow propose aussi un déclenchement manuel. Il planifie le
-troisième jour du mois à 05:23 UTC ; aucun calendrier externe n'est créé par ce projet.
+Les secrets du dépôt `DATAGOUV_API_KEY` et `RGE_GITHUB_TOKEN` contiennent les deux
+clés de publication. Le jeton GitHub conserve ses droits existants sur ce seul dépôt
+(Contents, Pages et Administration). Le workflow est installé séparément : le jeton
+d'exploitation n'a pas besoin du droit Workflows. Le token temporaire de checkout
+reste en lecture seule et n'est pas conservé dans le clone.
 
-La découverte distante assure la reprise sur un runner éphémère. Les diagnostics
-et l'état de reprise sont conservés comme artefact du run. La concurrence est limitée
-à une publication. GitHub peut différer ou suspendre des workflows planifiés :
-vérifier les runs et les notifications de votre dépôt.
+L'organisation existante et les millésimes INSEE sont configurés dans le workflow.
+La découverte distante retrouve le dataset annuel et ses ressources sur chaque
+runner neuf. Le transport Git compressé est utilisé. Les contrôles de qualité
+bloquent la publication si les données sont incomplètes ou incohérentes.
+
+Après publication, `verify_publication.py` vérifie les téléchargements publics,
+leurs SHA-256, les fichiers du dépôt et le déploiement Pages du dernier commit.
+Il attend jusqu'à dix minutes la mise en ligne ; un échec rend le run rouge.
+Les diagnostics et l'état de reprise sont conservés trente jours dans l'artefact
+du run. La concurrence est limitée à une publication ; aucun déclencheur sur push
+n'est ajouté, pour éviter les boucles.
+
+Les clés installées le 24 octobre 2026 expirent le **22 janvier 2027** : les
+renouveler dans les secrets du dépôt avant cette date. Un changement de millésime
+INSEE nécessite une mise à jour explicite des paramètres, après vérification de
+la disponibilité de la source. GitHub peut différer un lancement et suspendre un
+workflow planifié après soixante jours sans activité du dépôt.
 
 ## 7. Pages et intégration Legibat
 
@@ -245,7 +259,7 @@ open-data-conformite-rge-france/
 ├── metadata.py
 ├── requirements.txt / requirements-dev.txt / requirements-lock.txt
 ├── .env.example / .gitignore / pyproject.toml
-├── .github/workflows/monthly.yml
+├── .github/workflows/weekly.yml / verify_publication.py
 ├── tests/
 ├── GUIDE.md / SOURCES.md / LICENSE / DATA_LICENSE.md
 ├── README.md / DATASET_DESCRIPTION.md

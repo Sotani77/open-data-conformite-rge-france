@@ -125,6 +125,7 @@ def test_dataset_discovery_scoped_to_org_and_not_recreated(tmp_path):
             )
         payload = json.loads(request.content)
         assert payload["license"] == "lov2"
+        assert payload["frequency"] == "weekly"
         assert payload["spatial"]["granularity"] == "fr:commune"
         assert payload["extras"]["retain"] == "yes"
         return httpx.Response(200, json={"id": "existing", **payload})

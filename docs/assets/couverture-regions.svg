@@ -3,24 +3,24 @@
 <desc id="desc">Ratios calculés sur les communes au dénominateur connu. Le graphique ne mesure pas les disponibilités des entreprises.</desc>
 <rect width="960" height="984" fill="#f7f8f5"/>
 <g font-family="Arial, sans-serif" fill="#17332e"><text x="24" y="34" font-size="20" font-weight="bold">Entreprises RGE / 1 000 logements</text>
-<text x="24" y="88" font-size="14">Guadeloupe</text><rect x="300" y="72" width="47.13" height="22" rx="3" fill="#267665"/><text x="357.13" y="88" font-size="14">0,18</text>
-<text x="24" y="122" font-size="14">Martinique</text><rect x="300" y="106" width="37.61" height="22" rx="3" fill="#267665"/><text x="347.61" y="122" font-size="14">0,14</text>
-<text x="24" y="156" font-size="14">Guyane</text><rect x="300" y="140" width="52.17" height="22" rx="3" fill="#267665"/><text x="362.17" y="156" font-size="14">0,19</text>
-<text x="24" y="190" font-size="14">La Réunion</text><rect x="300" y="174" width="73.49" height="22" rx="3" fill="#267665"/><text x="383.49" y="190" font-size="14">0,27</text>
+<text x="24" y="88" font-size="14">Guadeloupe</text><rect x="300" y="72" width="47.18" height="22" rx="3" fill="#267665"/><text x="357.18" y="88" font-size="14">0,18</text>
+<text x="24" y="122" font-size="14">Martinique</text><rect x="300" y="106" width="38.86" height="22" rx="3" fill="#267665"/><text x="348.86" y="122" font-size="14">0,14</text>
+<text x="24" y="156" font-size="14">Guyane</text><rect x="300" y="140" width="52.23" height="22" rx="3" fill="#267665"/><text x="362.23" y="156" font-size="14">0,19</text>
+<text x="24" y="190" font-size="14">La Réunion</text><rect x="300" y="174" width="73.57" height="22" rx="3" fill="#267665"/><text x="383.57" y="190" font-size="14">0,27</text>
 <text x="24" y="224" font-size="14">Mayotte</text><rect x="300" y="208" width="0.00" height="22" rx="3" fill="#267665"/><text x="310.00" y="224" font-size="14">ND</text>
-<text x="24" y="258" font-size="14">Île-de-France</text><rect x="300" y="242" width="202.12" height="22" rx="3" fill="#267665"/><text x="512.12" y="258" font-size="14">0,75</text>
-<text x="24" y="292" font-size="14">Centre-Val de Loire</text><rect x="300" y="276" width="404.88" height="22" rx="3" fill="#267665"/><text x="714.88" y="292" font-size="14">1,51</text>
+<text x="24" y="258" font-size="14">Île-de-France</text><rect x="300" y="242" width="201.98" height="22" rx="3" fill="#267665"/><text x="511.98" y="258" font-size="14">0,75</text>
+<text x="24" y="292" font-size="14">Centre-Val de Loire</text><rect x="300" y="276" width="405.31" height="22" rx="3" fill="#267665"/><text x="715.31" y="292" font-size="14">1,51</text>
 <text x="24" y="326" font-size="14">Bourgogne-Franche-Comté</text><rect x="300" y="310" width="470.98" height="22" rx="3" fill="#267665"/><text x="780.98" y="326" font-size="14">1,75</text>
-<text x="24" y="360" font-size="14">Normandie</text><rect x="300" y="344" width="384.43" height="22" rx="3" fill="#267665"/><text x="694.43" y="360" font-size="14">1,43</text>
-<text x="24" y="394" font-size="14">Hauts-de-France</text><rect x="300" y="378" width="332.58" height="22" rx="3" fill="#267665"/><text x="642.58" y="394" font-size="14">1,24</text>
-<text x="24" y="428" font-size="14">Grand Est</text><rect x="300" y="412" width="460.55" height="22" rx="3" fill="#267665"/><text x="770.55" y="428" font-size="14">1,71</text>
+<text x="24" y="360" font-size="14">Normandie</text><rect x="300" y="344" width="384.26" height="22" rx="3" fill="#267665"/><text x="694.26" y="360" font-size="14">1,43</text>
+<text x="24" y="394" font-size="14">Hauts-de-France</text><rect x="300" y="378" width="332.03" height="22" rx="3" fill="#267665"/><text x="642.03" y="394" font-size="14">1,23</text>
+<text x="24" y="428" font-size="14">Grand Est</text><rect x="300" y="412" width="460.85" height="22" rx="3" fill="#267665"/><text x="770.85" y="428" font-size="14">1,71</text>
 <text x="24" y="462" font-size="14">Pays de la Loire</text><rect x="300" y="446" width="480.00" height="22" rx="3" fill="#267665"/><text x="790.00" y="462" font-size="14">1,78</text>
-<text x="24" y="496" font-size="14">Bretagne</text><rect x="300" y="480" width="440.67" height="22" rx="3" fill="#267665"/><text x="750.67" y="496" font-size="14">1,64</text>
-<text x="24" y="530" font-size="14">Nouvelle-Aquitaine</text><rect x="300" y="514" width="386.78" height="22" rx="3" fill="#267665"/><text x="696.78" y="530" font-size="14">1,44</text>
-<text x="24" y="564" font-size="14">Occitanie</text><rect x="300" y="548" width="372.11" height="22" rx="3" fill="#267665"/><text x="682.11" y="564" font-size="14">1,38</text>
-<text x="24" y="598" font-size="14">Auvergne-Rhône-Alpes</text><rect x="300" y="582" width="465.56" height="22" rx="3" fill="#267665"/><text x="775.56" y="598" font-size="14">1,73</text>
-<text x="24" y="632" font-size="14">Provence-Alpes-Côte d&#x27;Azur</text><rect x="300" y="616" width="220.50" height="22" rx="3" fill="#267665"/><text x="530.50" y="632" font-size="14">0,82</text>
-<text x="24" y="666" font-size="14">Corse</text><rect x="300" y="650" width="317.67" height="22" rx="3" fill="#267665"/><text x="627.67" y="666" font-size="14">1,18</text>
+<text x="24" y="496" font-size="14">Bretagne</text><rect x="300" y="480" width="441.00" height="22" rx="3" fill="#267665"/><text x="751.00" y="496" font-size="14">1,64</text>
+<text x="24" y="530" font-size="14">Nouvelle-Aquitaine</text><rect x="300" y="514" width="386.67" height="22" rx="3" fill="#267665"/><text x="696.67" y="530" font-size="14">1,44</text>
+<text x="24" y="564" font-size="14">Occitanie</text><rect x="300" y="548" width="372.28" height="22" rx="3" fill="#267665"/><text x="682.28" y="564" font-size="14">1,38</text>
+<text x="24" y="598" font-size="14">Auvergne-Rhône-Alpes</text><rect x="300" y="582" width="465.13" height="22" rx="3" fill="#267665"/><text x="775.13" y="598" font-size="14">1,73</text>
+<text x="24" y="632" font-size="14">Provence-Alpes-Côte d&#x27;Azur</text><rect x="300" y="616" width="220.07" height="22" rx="3" fill="#267665"/><text x="530.07" y="632" font-size="14">0,82</text>
+<text x="24" y="666" font-size="14">Corse</text><rect x="300" y="650" width="318.00" height="22" rx="3" fill="#267665"/><text x="628.00" y="666" font-size="14">1,18</text>
 <text x="24" y="700" font-size="14">Territoire 975</text><rect x="300" y="684" width="0.00" height="22" rx="3" fill="#267665"/><text x="310.00" y="700" font-size="14">ND</text>
 <text x="24" y="734" font-size="14">Territoire 977</text><rect x="300" y="718" width="0.00" height="22" rx="3" fill="#267665"/><text x="310.00" y="734" font-size="14">ND</text>
 <text x="24" y="768" font-size="14">Territoire 978</text><rect x="300" y="752" width="0.00" height="22" rx="3" fill="#267665"/><text x="310.00" y="768" font-size="14">ND</text>

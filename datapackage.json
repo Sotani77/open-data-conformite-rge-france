@@ -36,8 +36,8 @@
       "name": "cartographie-2026-couverture-artisans-rge-communes-csv",
       "path": "dist_data/cartographie-2026-couverture-artisans-rge-communes.csv",
       "format": "csv",
-      "bytes": 6481809,
-      "hash": "sha256:fd97b35e7545617748cc8d236a6041e4c89b49dfb44ca745a29b51787d5a3de1",
+      "bytes": 6481628,
+      "hash": "sha256:e378d340b13f6910094a11d75cca527c8aff7a1b331bb0aabfe12decbb26ca72",
       "profile": "tabular-data-resource",
       "encoding": "utf-8",
       "schema": {
@@ -293,8 +293,8 @@
       "name": "cartographie-2026-couverture-artisans-rge-communes-comma-csv",
       "path": "dist_data/cartographie-2026-couverture-artisans-rge-communes-comma.csv",
       "format": "csv",
-      "bytes": 6481809,
-      "hash": "sha256:6cf68b2d8eb60f189f33117511dcdd462c96d157c7534fba0eb047cfc40c490d",
+      "bytes": 6481628,
+      "hash": "sha256:fc09cbb3a50bd6778576c6e3e7d9e72f264549cdde748923bc7b31c6f1ac4396",
       "profile": "tabular-data-resource",
       "encoding": "utf-8",
       "schema": {
@@ -550,8 +550,8 @@
       "name": "cartographie-2026-couverture-artisans-rge-communes-parquet",
       "path": "dist_data/cartographie-2026-couverture-artisans-rge-communes.parquet",
       "format": "parquet",
-      "bytes": 1462422,
-      "hash": "sha256:509bb00ebb14b59291c79a870b9f0b93aed8d2e77e25d997d9b48e3e973adbf9"
+      "bytes": 1462215,
+      "hash": "sha256:3bc44afd1d6952d4d45caf7ca5c409842161810f02968428fa428591e9828a3a"
     }
   ]
 }

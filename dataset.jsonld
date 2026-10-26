@@ -12,8 +12,8 @@
   "license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
   "inLanguage": "fr",
   "isAccessibleForFree": true,
-  "dateModified": "2026-10-24",
-  "temporalCoverage": "2026-10-24",
+  "dateModified": "2026-10-26",
+  "temporalCoverage": "2026-10-26",
   "spatialCoverage": {
     "@type": "Place",
     "name": "France — périmètre communal disponible dans l'API Geo"
@@ -145,7 +145,6 @@
   "sameAs": [
     "https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements",
     "https://github.com/Sotani77/open-data-conformite-rge-france",
-    "https://sotani77.github.io/open-data-conformite-rge-france/",
     "https://legibat.fr/etude-couverture-rge"
   ],
   "includedInDataCatalog": {

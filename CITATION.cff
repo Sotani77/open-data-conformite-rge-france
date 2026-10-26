@@ -6,8 +6,8 @@ title: Cartographie 2026 de la couverture d'artisans RGE par commune vs nombre d
   logements
 authors:
 - name: Legibat - Observatoire de la Conformité BTP
-version: '2026-10-24'
+version: '2026-10-26'
 license: etalab-2.0
 url: https://legibat.fr/etude-couverture-rge
-date-released: '2026-10-24'
+date-released: '2026-10-26'
 repository-code: https://github.com/Sotani77/open-data-conformite-rge-france

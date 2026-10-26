@@ -1,34 +1,34 @@
 {
   "cartographie-2026-couverture-artisans-rge-communes.csv": {
-    "sha256": "fd97b35e7545617748cc8d236a6041e4c89b49dfb44ca745a29b51787d5a3de1",
-    "bytes": 6481809
+    "sha256": "e378d340b13f6910094a11d75cca527c8aff7a1b331bb0aabfe12decbb26ca72",
+    "bytes": 6481628
   },
   "cartographie-2026-couverture-artisans-rge-communes-comma.csv": {
-    "sha256": "6cf68b2d8eb60f189f33117511dcdd462c96d157c7534fba0eb047cfc40c490d",
-    "bytes": 6481809
+    "sha256": "fc09cbb3a50bd6778576c6e3e7d9e72f264549cdde748923bc7b31c6f1ac4396",
+    "bytes": 6481628
   },
   "cartographie-2026-couverture-artisans-rge-communes.parquet": {
-    "sha256": "509bb00ebb14b59291c79a870b9f0b93aed8d2e77e25d997d9b48e3e973adbf9",
-    "bytes": 1462422
+    "sha256": "3bc44afd1d6952d4d45caf7ca5c409842161810f02968428fa428591e9828a3a",
+    "bytes": 1462215
   },
   "synthese-departementale-rge-2026.json": {
-    "sha256": "6fc88bf5923fdcc3fbca2b0c6dd163cdaf716daf90732a4cb75ccaa5103a7caf",
-    "bytes": 66233
+    "sha256": "79443ef8080ca7509cdc3c045f2d56d2f2de2c41880e3d7a272d8ab85c705948",
+    "bytes": 66238
   },
   "synthese-regionale-rge-2026.json": {
-    "sha256": "b11fe87ae8ace12662a174e514476e0e962b216bf6fd54f40f96a7b2ac782f27",
-    "bytes": 15862
+    "sha256": "5cde2307fa81a267f140fd0cf0ec7d439a2245215afc0d4c8d8b4abceb88aa8d",
+    "bytes": 15866
   },
   "schema.json": {
     "sha256": "9b17552e468dd3954a5aba0b3d772dcadc4975fc35c9dc0853b791da4d98d96c",
     "bytes": 6799
   },
   "quality-report.json": {
-    "sha256": "4a51a3268227b90205d01d911284cdbba2111933b8562e791d39f10c0e5ec6c5",
-    "bytes": 943
+    "sha256": "e9c6047bb4271e6c1c776ce405e32f7ee75d02a3a92eeab13aefbbbf533abfe2",
+    "bytes": 944
   },
   "provenance.json": {
-    "sha256": "fc2d0b05c67e27c16765145c6feb89129328b94ff1d6b33b39e7155affe341e1",
+    "sha256": "ea9a386f9aa99a25b95a43234f5d317229595fc403a9a93a1103a3d203a9b84d",
     "bytes": 1268
   }
 }

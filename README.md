@@ -43,6 +43,9 @@ Les ratios portent sur les communes au dénominateur connu. Les SIREN sont dédu
 
 ## Fichiers
 
+- [Communes sans établissement RGE recensé](publications/communes-sans-etablissement-rge/README.md)
+- [Qualifications par famille de travaux et département](publications/qualifications-rge-metiers-departements/README.md)
+
 - [CSV, séparateur point-virgule](dist_data/cartographie-2026-couverture-artisans-rge-communes.csv)
 - [CSV, séparateur virgule](dist_data/cartographie-2026-couverture-artisans-rge-communes-comma.csv)
 - [Parquet typé](dist_data/cartographie-2026-couverture-artisans-rge-communes.parquet)

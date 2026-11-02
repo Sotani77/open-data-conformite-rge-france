@@ -1,0 +1,1100 @@
+{
+  "nb_communes_reference": 34969,
+  "nb_communes_sans_etablissement_rge": 20251,
+  "part_communes_sans_etablissement_pct": 57.911293,
+  "population_connue_communes_selectionnees": 9541130.0,
+  "logements_connus_communes_selectionnees": 5312542.62014,
+  "nb_communes_logements_manquants": 108,
+  "departements": [
+    {
+      "code_departement": "01",
+      "nb_communes_reference": 391,
+      "nb_communes_sans_etablissement_rge": 171,
+      "part_communes_sans_etablissement_pct": 43.734015,
+      "population_connue_communes_selectionnees": 126807.0,
+      "logements_connus_communes_selectionnees": 66006.81266,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "02",
+      "nb_communes_reference": 797,
+      "nb_communes_sans_etablissement_rge": 593,
+      "part_communes_sans_etablissement_pct": 74.404015,
+      "population_connue_communes_selectionnees": 179776.0,
+      "logements_connus_communes_selectionnees": 89154.86701999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "03",
+      "nb_communes_reference": 317,
+      "nb_communes_sans_etablissement_rge": 200,
+      "part_communes_sans_etablissement_pct": 63.091483,
+      "population_connue_communes_selectionnees": 79475.0,
+      "logements_connus_communes_selectionnees": 49928.87393,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "04",
+      "nb_communes_reference": 198,
+      "nb_communes_sans_etablissement_rge": 140,
+      "part_communes_sans_etablissement_pct": 70.707071,
+      "population_connue_communes_selectionnees": 45875.0,
+      "logements_connus_communes_selectionnees": 55383.2338,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "05",
+      "nb_communes_reference": 162,
+      "nb_communes_sans_etablissement_rge": 103,
+      "part_communes_sans_etablissement_pct": 63.580247,
+      "population_connue_communes_selectionnees": 32431.0,
+      "logements_connus_communes_selectionnees": 48676.03529,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "06",
+      "nb_communes_reference": 163,
+      "nb_communes_sans_etablissement_rge": 104,
+      "part_communes_sans_etablissement_pct": 63.803681,
+      "population_connue_communes_selectionnees": 88303.0,
+      "logements_connus_communes_selectionnees": 77463.64459000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "07",
+      "nb_communes_reference": 335,
+      "nb_communes_sans_etablissement_rge": 171,
+      "part_communes_sans_etablissement_pct": 51.044776,
+      "population_connue_communes_selectionnees": 60194.0,
+      "logements_connus_communes_selectionnees": 47696.71483999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "08",
+      "nb_communes_reference": 447,
+      "nb_communes_sans_etablissement_rge": 331,
+      "part_communes_sans_etablissement_pct": 74.049217,
+      "population_connue_communes_selectionnees": 79913.0,
+      "logements_connus_communes_selectionnees": 42781.249,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "09",
+      "nb_communes_reference": 325,
+      "nb_communes_sans_etablissement_rge": 246,
+      "part_communes_sans_etablissement_pct": 75.692308,
+      "population_connue_communes_selectionnees": 56683.0,
+      "logements_connus_communes_selectionnees": 50676.50035,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "10",
+      "nb_communes_reference": 431,
+      "nb_communes_sans_etablissement_rge": 293,
+      "part_communes_sans_etablissement_pct": 67.981439,
+      "population_connue_communes_selectionnees": 68216.0,
+      "logements_connus_communes_selectionnees": 37976.35463,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "11",
+      "nb_communes_reference": 433,
+      "nb_communes_sans_etablissement_rge": 318,
+      "part_communes_sans_etablissement_pct": 73.441109,
+      "population_connue_communes_selectionnees": 99541.0,
+      "logements_connus_communes_selectionnees": 81402.48894000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "12",
+      "nb_communes_reference": 285,
+      "nb_communes_sans_etablissement_rge": 149,
+      "part_communes_sans_etablissement_pct": 52.280702,
+      "population_connue_communes_selectionnees": 57678.0,
+      "logements_connus_communes_selectionnees": 43585.682819999995,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "13",
+      "nb_communes_reference": 119,
+      "nb_communes_sans_etablissement_rge": 21,
+      "part_communes_sans_etablissement_pct": 17.647059,
+      "population_connue_communes_selectionnees": 54668.0,
+      "logements_connus_communes_selectionnees": 30677.886670000007,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "14",
+      "nb_communes_reference": 526,
+      "nb_communes_sans_etablissement_rge": 319,
+      "part_communes_sans_etablissement_pct": 60.646388,
+      "population_connue_communes_selectionnees": 144075.0,
+      "logements_connus_communes_selectionnees": 89187.35358000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "15",
+      "nb_communes_reference": 250,
+      "nb_communes_sans_etablissement_rge": 173,
+      "part_communes_sans_etablissement_pct": 69.2,
+      "population_connue_communes_selectionnees": 39504.0,
+      "logements_connus_communes_selectionnees": 34566.46415,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "16",
+      "nb_communes_reference": 359,
+      "nb_communes_sans_etablissement_rge": 231,
+      "part_communes_sans_etablissement_pct": 64.345404,
+      "population_connue_communes_selectionnees": 94085.0,
+      "logements_connus_communes_selectionnees": 56793.1804,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "17",
+      "nb_communes_reference": 462,
+      "nb_communes_sans_etablissement_rge": 251,
+      "part_communes_sans_etablissement_pct": 54.329004,
+      "population_connue_communes_selectionnees": 135928.0,
+      "logements_connus_communes_selectionnees": 89361.10102,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "18",
+      "nb_communes_reference": 286,
+      "nb_communes_sans_etablissement_rge": 193,
+      "part_communes_sans_etablissement_pct": 67.482517,
+      "population_connue_communes_selectionnees": 83292.0,
+      "logements_connus_communes_selectionnees": 53485.40453,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "19",
+      "nb_communes_reference": 277,
+      "nb_communes_sans_etablissement_rge": 172,
+      "part_communes_sans_etablissement_pct": 62.093863,
+      "population_connue_communes_selectionnees": 57480.0,
+      "logements_connus_communes_selectionnees": 40897.297269999995,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "21",
+      "nb_communes_reference": 698,
+      "nb_communes_sans_etablissement_rge": 513,
+      "part_communes_sans_etablissement_pct": 73.495702,
+      "population_connue_communes_selectionnees": 115139.0,
+      "logements_connus_communes_selectionnees": 65375.045470000005,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "22",
+      "nb_communes_reference": 344,
+      "nb_communes_sans_etablissement_rge": 134,
+      "part_communes_sans_etablissement_pct": 38.953488,
+      "population_connue_communes_selectionnees": 90699.0,
+      "logements_connus_communes_selectionnees": 55694.56639,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "23",
+      "nb_communes_reference": 255,
+      "nb_communes_sans_etablissement_rge": 182,
+      "part_communes_sans_etablissement_pct": 71.372549,
+      "population_connue_communes_selectionnees": 47594.0,
+      "logements_connus_communes_selectionnees": 40032.456309999994,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "24",
+      "nb_communes_reference": 503,
+      "nb_communes_sans_etablissement_rge": 320,
+      "part_communes_sans_etablissement_pct": 63.61829,
+      "population_connue_communes_selectionnees": 128036.0,
+      "logements_connus_communes_selectionnees": 86411.58778999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "25",
+      "nb_communes_reference": 563,
+      "nb_communes_sans_etablissement_rge": 367,
+      "part_communes_sans_etablissement_pct": 65.186501,
+      "population_connue_communes_selectionnees": 109460.0,
+      "logements_connus_communes_selectionnees": 57563.54487,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "26",
+      "nb_communes_reference": 362,
+      "nb_communes_sans_etablissement_rge": 197,
+      "part_communes_sans_etablissement_pct": 54.41989,
+      "population_connue_communes_selectionnees": 53511.0,
+      "logements_connus_communes_selectionnees": 35741.1305,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "27",
+      "nb_communes_reference": 585,
+      "nb_communes_sans_etablissement_rge": 375,
+      "part_communes_sans_etablissement_pct": 64.102564,
+      "population_connue_communes_selectionnees": 186268.0,
+      "logements_connus_communes_selectionnees": 94237.46953,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "28",
+      "nb_communes_reference": 363,
+      "nb_communes_sans_etablissement_rge": 224,
+      "part_communes_sans_etablissement_pct": 61.707989,
+      "population_connue_communes_selectionnees": 111024.0,
+      "logements_connus_communes_selectionnees": 57582.396680000005,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "29",
+      "nb_communes_reference": 277,
+      "nb_communes_sans_etablissement_rge": 82,
+      "part_communes_sans_etablissement_pct": 29.602888,
+      "population_connue_communes_selectionnees": 78925.0,
+      "logements_connus_communes_selectionnees": 54623.77592,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "2A",
+      "nb_communes_reference": 124,
+      "nb_communes_sans_etablissement_rge": 90,
+      "part_communes_sans_etablissement_pct": 72.580645,
+      "population_connue_communes_selectionnees": 27627.0,
+      "logements_connus_communes_selectionnees": 32928.024849999994,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "2B",
+      "nb_communes_reference": 236,
+      "nb_communes_sans_etablissement_rge": 190,
+      "part_communes_sans_etablissement_pct": 80.508475,
+      "population_connue_communes_selectionnees": 43548.0,
+      "logements_connus_communes_selectionnees": 49552.44168,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "30",
+      "nb_communes_reference": 350,
+      "nb_communes_sans_etablissement_rge": 182,
+      "part_communes_sans_etablissement_pct": 52.0,
+      "population_connue_communes_selectionnees": 106573.0,
+      "logements_connus_communes_selectionnees": 67819.36434,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "31",
+      "nb_communes_reference": 586,
+      "nb_communes_sans_etablissement_rge": 335,
+      "part_communes_sans_etablissement_pct": 57.167235,
+      "population_connue_communes_selectionnees": 109642.0,
+      "logements_connus_communes_selectionnees": 60160.32544,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "32",
+      "nb_communes_reference": 458,
+      "nb_communes_sans_etablissement_rge": 347,
+      "part_communes_sans_etablissement_pct": 75.764192,
+      "population_connue_communes_selectionnees": 74779.0,
+      "logements_connus_communes_selectionnees": 44415.548259999996,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "33",
+      "nb_communes_reference": 534,
+      "nb_communes_sans_etablissement_rge": 245,
+      "part_communes_sans_etablissement_pct": 45.88015,
+      "population_connue_communes_selectionnees": 162358.0,
+      "logements_connus_communes_selectionnees": 101229.38028000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "34",
+      "nb_communes_reference": 341,
+      "nb_communes_sans_etablissement_rge": 163,
+      "part_communes_sans_etablissement_pct": 47.800587,
+      "population_connue_communes_selectionnees": 99060.0,
+      "logements_connus_communes_selectionnees": 65747.42862,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "35",
+      "nb_communes_reference": 332,
+      "nb_communes_sans_etablissement_rge": 106,
+      "part_communes_sans_etablissement_pct": 31.927711,
+      "population_connue_communes_selectionnees": 100750.0,
+      "logements_connus_communes_selectionnees": 50541.93527,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "36",
+      "nb_communes_reference": 241,
+      "nb_communes_sans_etablissement_rge": 166,
+      "part_communes_sans_etablissement_pct": 68.879668,
+      "population_connue_communes_selectionnees": 59881.0,
+      "logements_connus_communes_selectionnees": 41651.89675,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "37",
+      "nb_communes_reference": 272,
+      "nb_communes_sans_etablissement_rge": 125,
+      "part_communes_sans_etablissement_pct": 45.955882,
+      "population_connue_communes_selectionnees": 79843.0,
+      "logements_connus_communes_selectionnees": 43745.87919000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "38",
+      "nb_communes_reference": 512,
+      "nb_communes_sans_etablissement_rge": 183,
+      "part_communes_sans_etablissement_pct": 35.742188,
+      "population_connue_communes_selectionnees": 103068.0,
+      "logements_connus_communes_selectionnees": 75881.76808000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "39",
+      "nb_communes_reference": 492,
+      "nb_communes_sans_etablissement_rge": 343,
+      "part_communes_sans_etablissement_pct": 69.715447,
+      "population_connue_communes_selectionnees": 84321.0,
+      "logements_connus_communes_selectionnees": 49499.754969999995,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "40",
+      "nb_communes_reference": 327,
+      "nb_communes_sans_etablissement_rge": 175,
+      "part_communes_sans_etablissement_pct": 53.51682,
+      "population_connue_communes_selectionnees": 73462.0,
+      "logements_connus_communes_selectionnees": 47207.07581,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "41",
+      "nb_communes_reference": 267,
+      "nb_communes_sans_etablissement_rge": 151,
+      "part_communes_sans_etablissement_pct": 56.554307,
+      "population_connue_communes_selectionnees": 69100.0,
+      "logements_connus_communes_selectionnees": 39992.61027999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "42",
+      "nb_communes_reference": 320,
+      "nb_communes_sans_etablissement_rge": 113,
+      "part_communes_sans_etablissement_pct": 35.3125,
+      "population_connue_communes_selectionnees": 62757.0,
+      "logements_connus_communes_selectionnees": 33238.281839999996,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "43",
+      "nb_communes_reference": 257,
+      "nb_communes_sans_etablissement_rge": 136,
+      "part_communes_sans_etablissement_pct": 52.918288,
+      "population_connue_communes_selectionnees": 34367.0,
+      "logements_connus_communes_selectionnees": 28312.33405,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "44",
+      "nb_communes_reference": 207,
+      "nb_communes_sans_etablissement_rge": 27,
+      "part_communes_sans_etablissement_pct": 13.043478,
+      "population_connue_communes_selectionnees": 42062.0,
+      "logements_connus_communes_selectionnees": 26535.49578,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "45",
+      "nb_communes_reference": 325,
+      "nb_communes_sans_etablissement_rge": 161,
+      "part_communes_sans_etablissement_pct": 49.538462,
+      "population_connue_communes_selectionnees": 76379.0,
+      "logements_connus_communes_selectionnees": 41774.79679,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "46",
+      "nb_communes_reference": 312,
+      "nb_communes_sans_etablissement_rge": 211,
+      "part_communes_sans_etablissement_pct": 67.628205,
+      "population_connue_communes_selectionnees": 66557.0,
+      "logements_connus_communes_selectionnees": 48568.16017,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "47",
+      "nb_communes_reference": 319,
+      "nb_communes_sans_etablissement_rge": 177,
+      "part_communes_sans_etablissement_pct": 55.485893,
+      "population_connue_communes_selectionnees": 66450.0,
+      "logements_connus_communes_selectionnees": 39170.78133,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "48",
+      "nb_communes_reference": 152,
+      "nb_communes_sans_etablissement_rge": 109,
+      "part_communes_sans_etablissement_pct": 71.710526,
+      "population_connue_communes_selectionnees": 24999.0,
+      "logements_connus_communes_selectionnees": 24591.554020000003,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "49",
+      "nb_communes_reference": 176,
+      "nb_communes_sans_etablissement_rge": 45,
+      "part_communes_sans_etablissement_pct": 25.568182,
+      "population_connue_communes_selectionnees": 30902.0,
+      "logements_connus_communes_selectionnees": 14926.405330000003,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "50",
+      "nb_communes_reference": 445,
+      "nb_communes_sans_etablissement_rge": 252,
+      "part_communes_sans_etablissement_pct": 56.629213,
+      "population_connue_communes_selectionnees": 95638.0,
+      "logements_connus_communes_selectionnees": 56954.70787,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "51",
+      "nb_communes_reference": 610,
+      "nb_communes_sans_etablissement_rge": 460,
+      "part_communes_sans_etablissement_pct": 75.409836,
+      "population_connue_communes_selectionnees": 134812.0,
+      "logements_connus_communes_selectionnees": 66992.03370999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "52",
+      "nb_communes_reference": 426,
+      "nb_communes_sans_etablissement_rge": 329,
+      "part_communes_sans_etablissement_pct": 77.230047,
+      "population_connue_communes_selectionnees": 54386.0,
+      "logements_connus_communes_selectionnees": 33521.61800999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "53",
+      "nb_communes_reference": 240,
+      "nb_communes_sans_etablissement_rge": 113,
+      "part_communes_sans_etablissement_pct": 47.083333,
+      "population_connue_communes_selectionnees": 50303.0,
+      "logements_connus_communes_selectionnees": 26639.28397,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "54",
+      "nb_communes_reference": 591,
+      "nb_communes_sans_etablissement_rge": 378,
+      "part_communes_sans_etablissement_pct": 63.959391,
+      "population_connue_communes_selectionnees": 131827.0,
+      "logements_connus_communes_selectionnees": 63838.01915000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "55",
+      "nb_communes_reference": 499,
+      "nb_communes_sans_etablissement_rge": 382,
+      "part_communes_sans_etablissement_pct": 76.553106,
+      "population_connue_communes_selectionnees": 64142.0,
+      "logements_connus_communes_selectionnees": 35618.296689999996,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "56",
+      "nb_communes_reference": 249,
+      "nb_communes_sans_etablissement_rge": 62,
+      "part_communes_sans_etablissement_pct": 24.899598,
+      "population_connue_communes_selectionnees": 58284.0,
+      "logements_connus_communes_selectionnees": 44988.27163999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "57",
+      "nb_communes_reference": 725,
+      "nb_communes_sans_etablissement_rge": 462,
+      "part_communes_sans_etablissement_pct": 63.724138,
+      "population_connue_communes_selectionnees": 213071.0,
+      "logements_connus_communes_selectionnees": 106299.46385999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "58",
+      "nb_communes_reference": 309,
+      "nb_communes_sans_etablissement_rge": 235,
+      "part_communes_sans_etablissement_pct": 76.05178,
+      "population_connue_communes_selectionnees": 67368.0,
+      "logements_connus_communes_selectionnees": 53987.0388,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "59",
+      "nb_communes_reference": 647,
+      "nb_communes_sans_etablissement_rge": 246,
+      "part_communes_sans_etablissement_pct": 38.021638,
+      "population_connue_communes_selectionnees": 217330.0,
+      "logements_connus_communes_selectionnees": 100467.54009,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "60",
+      "nb_communes_reference": 680,
+      "nb_communes_sans_etablissement_rge": 451,
+      "part_communes_sans_etablissement_pct": 66.323529,
+      "population_connue_communes_selectionnees": 253760.0,
+      "logements_connus_communes_selectionnees": 115887.79858,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "61",
+      "nb_communes_reference": 381,
+      "nb_communes_sans_etablissement_rge": 226,
+      "part_communes_sans_etablissement_pct": 59.317585,
+      "population_connue_communes_selectionnees": 61787.0,
+      "logements_connus_communes_selectionnees": 38344.20267,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "62",
+      "nb_communes_reference": 887,
+      "nb_communes_sans_etablissement_rge": 484,
+      "part_communes_sans_etablissement_pct": 54.565953,
+      "population_connue_communes_selectionnees": 225578.0,
+      "logements_connus_communes_selectionnees": 109876.17908,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "63",
+      "nb_communes_reference": 463,
+      "nb_communes_sans_etablissement_rge": 250,
+      "part_communes_sans_etablissement_pct": 53.99568,
+      "population_connue_communes_selectionnees": 101210.0,
+      "logements_connus_communes_selectionnees": 72478.78225,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "64",
+      "nb_communes_reference": 545,
+      "nb_communes_sans_etablissement_rge": 316,
+      "part_communes_sans_etablissement_pct": 57.981651,
+      "population_connue_communes_selectionnees": 114843.0,
+      "logements_connus_communes_selectionnees": 65003.30872,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "65",
+      "nb_communes_reference": 469,
+      "nb_communes_sans_etablissement_rge": 361,
+      "part_communes_sans_etablissement_pct": 76.972281,
+      "population_connue_communes_selectionnees": 68040.0,
+      "logements_connus_communes_selectionnees": 60723.43097,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "66",
+      "nb_communes_reference": 226,
+      "nb_communes_sans_etablissement_rge": 141,
+      "part_communes_sans_etablissement_pct": 62.389381,
+      "population_connue_communes_selectionnees": 68976.0,
+      "logements_connus_communes_selectionnees": 60793.63837999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "67",
+      "nb_communes_reference": 514,
+      "nb_communes_sans_etablissement_rge": 205,
+      "part_communes_sans_etablissement_pct": 39.883268,
+      "population_connue_communes_selectionnees": 123770.0,
+      "logements_connus_communes_selectionnees": 61734.984070000006,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "68",
+      "nb_communes_reference": 366,
+      "nb_communes_sans_etablissement_rge": 172,
+      "part_communes_sans_etablissement_pct": 46.994536,
+      "population_connue_communes_selectionnees": 118336.0,
+      "logements_connus_communes_selectionnees": 58286.04885000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "69",
+      "nb_communes_reference": 266,
+      "nb_communes_sans_etablissement_rge": 51,
+      "part_communes_sans_etablissement_pct": 19.172932,
+      "population_connue_communes_selectionnees": 55067.0,
+      "logements_connus_communes_selectionnees": 26666.37583,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "70",
+      "nb_communes_reference": 536,
+      "nb_communes_sans_etablissement_rge": 415,
+      "part_communes_sans_etablissement_pct": 77.425373,
+      "population_connue_communes_selectionnees": 93814.0,
+      "logements_connus_communes_selectionnees": 52543.47855,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "71",
+      "nb_communes_reference": 563,
+      "nb_communes_sans_etablissement_rge": 313,
+      "part_communes_sans_etablissement_pct": 55.595027,
+      "population_connue_communes_selectionnees": 111060.0,
+      "logements_connus_communes_selectionnees": 66094.00299000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "72",
+      "nb_communes_reference": 352,
+      "nb_communes_sans_etablissement_rge": 176,
+      "part_communes_sans_etablissement_pct": 50.0,
+      "population_connue_communes_selectionnees": 81902.0,
+      "logements_connus_communes_selectionnees": 43229.28016,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "73",
+      "nb_communes_reference": 273,
+      "nb_communes_sans_etablissement_rge": 129,
+      "part_communes_sans_etablissement_pct": 47.252747,
+      "population_connue_communes_selectionnees": 68775.0,
+      "logements_connus_communes_selectionnees": 80116.69318,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "74",
+      "nb_communes_reference": 279,
+      "nb_communes_sans_etablissement_rge": 115,
+      "part_communes_sans_etablissement_pct": 41.218638,
+      "population_connue_communes_selectionnees": 156978.0,
+      "logements_connus_communes_selectionnees": 113488.0986,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "75",
+      "nb_communes_reference": 1,
+      "nb_communes_sans_etablissement_rge": 0,
+      "part_communes_sans_etablissement_pct": 0.0,
+      "population_connue_communes_selectionnees": null,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "76",
+      "nb_communes_reference": 707,
+      "nb_communes_sans_etablissement_rge": 425,
+      "part_communes_sans_etablissement_pct": 60.113154,
+      "population_connue_communes_selectionnees": 217516.0,
+      "logements_connus_communes_selectionnees": 106978.94576999999,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "77",
+      "nb_communes_reference": 507,
+      "nb_communes_sans_etablissement_rge": 262,
+      "part_communes_sans_etablissement_pct": 51.676529,
+      "population_connue_communes_selectionnees": 197779.0,
+      "logements_connus_communes_selectionnees": 89503.56914,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "78",
+      "nb_communes_reference": 259,
+      "nb_communes_sans_etablissement_rge": 107,
+      "part_communes_sans_etablissement_pct": 41.312741,
+      "population_connue_communes_selectionnees": 109703.0,
+      "logements_connus_communes_selectionnees": 50997.29724,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "79",
+      "nb_communes_reference": 252,
+      "nb_communes_sans_etablissement_rge": 133,
+      "part_communes_sans_etablissement_pct": 52.777778,
+      "population_connue_communes_selectionnees": 74270.0,
+      "logements_connus_communes_selectionnees": 39657.26397,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "80",
+      "nb_communes_reference": 771,
+      "nb_communes_sans_etablissement_rge": 592,
+      "part_communes_sans_etablissement_pct": 76.783398,
+      "population_connue_communes_selectionnees": 198306.0,
+      "logements_connus_communes_selectionnees": 101895.50951,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "81",
+      "nb_communes_reference": 314,
+      "nb_communes_sans_etablissement_rge": 179,
+      "part_communes_sans_etablissement_pct": 57.006369,
+      "population_connue_communes_selectionnees": 59441.0,
+      "logements_connus_communes_selectionnees": 35769.83496000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "82",
+      "nb_communes_reference": 195,
+      "nb_communes_sans_etablissement_rge": 108,
+      "part_communes_sans_etablissement_pct": 55.384615,
+      "population_connue_communes_selectionnees": 48306.0,
+      "logements_connus_communes_selectionnees": 26384.74374,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "83",
+      "nb_communes_reference": 153,
+      "nb_communes_sans_etablissement_rge": 63,
+      "part_communes_sans_etablissement_pct": 41.176471,
+      "population_connue_communes_selectionnees": 91716.0,
+      "logements_connus_communes_selectionnees": 79307.64407999998,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "84",
+      "nb_communes_reference": 151,
+      "nb_communes_sans_etablissement_rge": 60,
+      "part_communes_sans_etablissement_pct": 39.735099,
+      "population_connue_communes_selectionnees": 43291.0,
+      "logements_connus_communes_selectionnees": 28952.441929999997,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "85",
+      "nb_communes_reference": 253,
+      "nb_communes_sans_etablissement_rge": 54,
+      "part_communes_sans_etablissement_pct": 21.343874,
+      "population_connue_communes_selectionnees": 43776.0,
+      "logements_connus_communes_selectionnees": 27446.88269,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "86",
+      "nb_communes_reference": 265,
+      "nb_communes_sans_etablissement_rge": 138,
+      "part_communes_sans_etablissement_pct": 52.075472,
+      "population_connue_communes_selectionnees": 74837.0,
+      "logements_connus_communes_selectionnees": 43808.95361,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "87",
+      "nb_communes_reference": 195,
+      "nb_communes_sans_etablissement_rge": 100,
+      "part_communes_sans_etablissement_pct": 51.282051,
+      "population_connue_communes_selectionnees": 50081.0,
+      "logements_connus_communes_selectionnees": 34367.729629999994,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "88",
+      "nb_communes_reference": 506,
+      "nb_communes_sans_etablissement_rge": 311,
+      "part_communes_sans_etablissement_pct": 61.462451,
+      "population_connue_communes_selectionnees": 64758.0,
+      "logements_connus_communes_selectionnees": 37398.22379,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "89",
+      "nb_communes_reference": 423,
+      "nb_communes_sans_etablissement_rge": 263,
+      "part_communes_sans_etablissement_pct": 62.174941,
+      "population_connue_communes_selectionnees": 88276.0,
+      "logements_connus_communes_selectionnees": 57445.54418,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "90",
+      "nb_communes_reference": 101,
+      "nb_communes_sans_etablissement_rge": 61,
+      "part_communes_sans_etablissement_pct": 60.39604,
+      "population_connue_communes_selectionnees": 33082.0,
+      "logements_connus_communes_selectionnees": 16060.8045,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "91",
+      "nb_communes_reference": 194,
+      "nb_communes_sans_etablissement_rge": 63,
+      "part_communes_sans_etablissement_pct": 32.474227,
+      "population_connue_communes_selectionnees": 62122.0,
+      "logements_connus_communes_selectionnees": 28458.96371,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "92",
+      "nb_communes_reference": 36,
+      "nb_communes_sans_etablissement_rge": 1,
+      "part_communes_sans_etablissement_pct": 2.777778,
+      "population_connue_communes_selectionnees": 20884.0,
+      "logements_connus_communes_selectionnees": 9896.84174,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "93",
+      "nb_communes_reference": 39,
+      "nb_communes_sans_etablissement_rge": 0,
+      "part_communes_sans_etablissement_pct": 0.0,
+      "population_connue_communes_selectionnees": null,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "94",
+      "nb_communes_reference": 47,
+      "nb_communes_sans_etablissement_rge": 0,
+      "part_communes_sans_etablissement_pct": 0.0,
+      "population_connue_communes_selectionnees": null,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "95",
+      "nb_communes_reference": 183,
+      "nb_communes_sans_etablissement_rge": 84,
+      "part_communes_sans_etablissement_pct": 45.901639,
+      "population_connue_communes_selectionnees": 72585.0,
+      "logements_connus_communes_selectionnees": 31108.996909999998,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "971",
+      "nb_communes_reference": 32,
+      "nb_communes_sans_etablissement_rge": 19,
+      "part_communes_sans_etablissement_pct": 59.375,
+      "population_connue_communes_selectionnees": 131732.0,
+      "logements_connus_communes_selectionnees": 84474.72945,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "972",
+      "nb_communes_reference": 34,
+      "nb_communes_sans_etablissement_rge": 22,
+      "part_communes_sans_etablissement_pct": 64.705882,
+      "population_connue_communes_selectionnees": 113184.0,
+      "logements_connus_communes_selectionnees": 69388.49618,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "973",
+      "nb_communes_reference": 22,
+      "nb_communes_sans_etablissement_rge": 14,
+      "part_communes_sans_etablissement_pct": 63.636364,
+      "population_connue_communes_selectionnees": 61552.0,
+      "logements_connus_communes_selectionnees": 13937.290790000001,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "974",
+      "nb_communes_reference": 24,
+      "nb_communes_sans_etablissement_rge": 7,
+      "part_communes_sans_etablissement_pct": 29.166667,
+      "population_connue_communes_selectionnees": 49595.0,
+      "logements_connus_communes_selectionnees": 24274.973869999998,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "975",
+      "nb_communes_reference": 2,
+      "nb_communes_sans_etablissement_rge": 2,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": 5790.0,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 2
+    },
+    {
+      "code_departement": "976",
+      "nb_communes_reference": 17,
+      "nb_communes_sans_etablissement_rge": 15,
+      "part_communes_sans_etablissement_pct": 88.235294,
+      "population_connue_communes_selectionnees": 169233.0,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 15
+    },
+    {
+      "code_departement": "977",
+      "nb_communes_reference": 1,
+      "nb_communes_sans_etablissement_rge": 1,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": 10660.0,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 1
+    },
+    {
+      "code_departement": "978",
+      "nb_communes_reference": 1,
+      "nb_communes_sans_etablissement_rge": 0,
+      "part_communes_sans_etablissement_pct": 0.0,
+      "population_connue_communes_selectionnees": null,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 0
+    },
+    {
+      "code_departement": "984",
+      "nb_communes_reference": 5,
+      "nb_communes_sans_etablissement_rge": 5,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": null,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 5,
+      "nb_communes_logements_manquants": 5
+    },
+    {
+      "code_departement": "986",
+      "nb_communes_reference": 3,
+      "nb_communes_sans_etablissement_rge": 3,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": 11151.0,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 3
+    },
+    {
+      "code_departement": "987",
+      "nb_communes_reference": 48,
+      "nb_communes_sans_etablissement_rge": 48,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": 278786.0,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 48
+    },
+    {
+      "code_departement": "988",
+      "nb_communes_reference": 33,
+      "nb_communes_sans_etablissement_rge": 33,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": 264596.0,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 0,
+      "nb_communes_logements_manquants": 33
+    },
+    {
+      "code_departement": "989",
+      "nb_communes_reference": 1,
+      "nb_communes_sans_etablissement_rge": 1,
+      "part_communes_sans_etablissement_pct": 100.0,
+      "population_connue_communes_selectionnees": null,
+      "logements_connus_communes_selectionnees": null,
+      "nb_communes_population_manquante": 1,
+      "nb_communes_logements_manquants": 1
+    }
+  ]
+}

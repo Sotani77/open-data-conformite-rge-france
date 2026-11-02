@@ -13,6 +13,7 @@ from urllib.parse import urljoin
 import httpx
 
 from common import Http, PipelineError, write_json
+from complementary_publications import ABSENCE, QUALIFICATIONS
 from config import Settings
 from github_publisher import GitHubPublisher, git_blob_sha, source_files
 
@@ -65,6 +66,30 @@ def verify(root, settings, wait_seconds):
             if len(resources) != 1:
                 raise PipelineError(f"Ressource absente ou ambiguë : {path.name}")
             report["downloads"].append(check_download(public, resources[0]["url"], path))
+        complementary = publication.get("complementary", {})
+        if set(complementary) != {ABSENCE, QUALIFICATIONS}:
+            raise PipelineError("Les deux publications complémentaires sont requises")
+        report["complementary"] = {}
+        for slug, info in complementary.items():
+            topic = public.request(
+                "GET", settings.datagouv_api_url + "datasets/" + info["dataset_id"] + "/"
+            ).json()
+            if topic.get("private") is not False or topic.get("frequency") != "weekly":
+                raise PipelineError(
+                    f"Publication complémentaire non publique/hebdomadaire : {slug}"
+                )
+            public.request("GET", topic["page"])
+            folder = root / "publications" / slug
+            manifest = json.loads((folder / "manifest.json").read_text("utf8"))
+            checks = []
+            for name in sorted({*manifest, "manifest.json"}):
+                if Path(name).name != name:
+                    raise PipelineError("Chemin invalide dans le manifeste complémentaire")
+                resources = [r for r in topic["resources"] if r.get("title") == name]
+                if len(resources) != 1:
+                    raise PipelineError(f"Ressource absente ou ambiguë : {slug}/{name}")
+                checks.append(check_download(public, resources[0]["url"], folder / name))
+            report["complementary"][slug] = {"dataset_url": topic["page"], "downloads": checks}
         head = gh.call("GET", f"{gh.repo_path}/git/ref/heads/{settings.github_branch}")["object"][
             "sha"
         ]
@@ -78,7 +103,7 @@ def verify(root, settings, wait_seconds):
         files = source_files(root)
         files += [
             p
-            for folder in ("dist_data", "docs", "landing")
+            for folder in ("dist_data", "docs", "landing", "publications")
             for p in (root / folder).rglob("*")
             if p.is_file()
         ]
@@ -110,10 +135,12 @@ def verify(root, settings, wait_seconds):
                         check_download(
                             public, urljoin(publication["pages_url"], rel), root / "docs" / local
                         )
-                        for rel, local in (
+                        for rel, local in [
                             ("", "index.html"),
                             ("assets/couverture-regions.svg", "assets/couverture-regions.svg"),
-                        )
+                            ("publications/", "publications/index.html"),
+                        ]
+                        + [(slug + "/", slug + "/index.html") for slug in complementary]
                     ]
                     break
                 except PipelineError:
@@ -136,6 +163,10 @@ def verify(root, settings, wait_seconds):
                     f"{len(report['downloads'])} téléchargements, {len(files)} fichiers GitHub "
                     f"et les empreintes du site contrôlés.\n"
                 )
+                for slug, info in report["complementary"].items():
+                    stream.write(
+                        f"- [{slug}]({info['dataset_url']}) : {len(info['downloads'])} téléchargements vérifiés.\n"
+                    )
         return report
     finally:
         write_json(output, report)

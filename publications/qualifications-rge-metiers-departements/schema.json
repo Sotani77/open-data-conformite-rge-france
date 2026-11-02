@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "name": "code_departement",
+      "type": "string",
+      "description": "Code département ou territoire du référentiel API Geo.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "famille",
+      "type": "string",
+      "description": "Identifiant de famille : pv, pac, isolation, chauffage, menuiserie.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "famille_travaux",
+      "type": "string",
+      "description": "Libellé de la famille de travaux.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "nb_qualifications",
+      "type": "integer",
+      "description": "Combinaisons distinctes établissement-organisme-code-domaine valides ; pas un nombre d'entreprises.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "nb_communes_reference",
+      "type": "integer",
+      "description": "Nombre total de communes du département dans le référentiel utilisé.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "nb_communes_avec_qualification",
+      "type": "integer",
+      "description": "Communes avec au moins une qualification de cette famille rattachée.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "part_communes_avec_qualification_pct",
+      "type": "number",
+      "description": "100 × communes avec qualification / communes du référentiel départemental.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "date_observation",
+      "type": "date",
+      "description": "Date de validité des qualifications et d'observation.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "donnees_partielles",
+      "type": "boolean",
+      "description": "Vrai pour une démonstration, dont la publication est interdite.",
+      "constraints": {
+        "required": true
+      }
+    }
+  ],
+  "primaryKey": [
+    "code_departement",
+    "famille"
+  ],
+  "missingValues": [
+    ""
+  ]
+}

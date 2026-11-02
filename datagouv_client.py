@@ -100,10 +100,14 @@ class DataGouvClient(Api):
         self.state.save()
         return org
 
-    def upsert_dataset(self, org, description):
+    def upsert_dataset(self, org, description, *, key=None, title=None, granularity="fr:commune"):
         s = self.settings
-        key = f"legibat-rge-communes-{s.year}"
-        dataset_id = s.datagouv_dataset_id or self.state.data.get("datasets", {}).get(str(s.year))
+        edition = key or str(s.year)
+        dataset_id = (s.datagouv_dataset_id if key is None else "") or self.state.data.get(
+            "datasets", {}
+        ).get(edition)
+        key = key or f"legibat-rge-communes-{s.year}"
+        title = title or s.title
         found = None
         if dataset_id:
             found = self.call("GET", f"datasets/{dataset_id}/")
@@ -113,8 +117,7 @@ class DataGouvClient(Api):
             candidates = [
                 d
                 for d in self.pages(f"organizations/{org['id']}/datasets/", {"page_size": 100})
-                if d.get("extras", {}).get("legibat_pipeline_key") == key
-                or d.get("title") == s.title
+                if d.get("extras", {}).get("legibat_pipeline_key") == key or d.get("title") == title
             ]
             if len(candidates) > 1:
                 raise PipelineError(
@@ -123,14 +126,14 @@ class DataGouvClient(Api):
             if candidates:
                 found = self.call("GET", f"datasets/{candidates[0]['id']}/")
         payload = {
-            "title": s.title,
+            "title": title,
             "description": description,
             "organization": org["id"],
             "tags": TAGS,
             "license": "lov2",
             "frequency": "weekly",
             "private": False,
-            "spatial": {"zones": ["country:fr"], "granularity": "fr:commune"},
+            "spatial": {"zones": ["country:fr"], "granularity": granularity},
             "temporal_coverage": {"start": s.as_of.isoformat(), "end": s.as_of.isoformat()},
             "extras": {
                 **((found or {}).get("extras") or {}),
@@ -143,7 +146,7 @@ class DataGouvClient(Api):
             if found
             else self.call("POST", "datasets/", json=payload)
         )
-        self.state.data.setdefault("datasets", {})[str(s.year)] = dataset["id"]
+        self.state.data.setdefault("datasets", {})[edition] = dataset["id"]
         self.state.save()
         return dataset
 

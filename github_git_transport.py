@@ -58,7 +58,16 @@ def sync_with_git(publisher, root: Path, contents: dict, message: str):
     def run(*args, cwd=None, allowed=(0,)):
         try:
             result = subprocess.run(
-                [git, "-c", "credential.helper=", "-c", "core.autocrlf=false", *args],
+                [
+                    git,
+                    "-c",
+                    "credential.helper=",
+                    "-c",
+                    "core.autocrlf=false",
+                    "-c",
+                    "core.longpaths=true",
+                    *args,
+                ],
                 cwd=cwd,
                 env=env,
                 capture_output=True,

@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Qualifications RGE actives par famille de travaux et département — 2026",
+  "description": "Ce jeu adopte un format long : une ligne par département ou territoire et par famille de travaux, y compris lorsque le nombre de qualifications est nul. Les cinq familles sont le photovoltaïque, les pompes à chaleur, l'isolation, le chauffage et la menuiserie. Une qualification est une combinaison distincte établissement, organisme, code de qualification et domaine normalisé. Plusieurs qualifications peuvent appartenir à un même établissement. Il ne faut donc pas interpréter ces effectifs comme des entreprises, des artisans ou des emplois. Les familles se chevauchent, notamment pompes à chaleur et chauffage, et leurs effectifs ne doivent pas être additionnés. Le taux de couverture compte les communes disposant d'au moins une qualification de la famille parmi toutes les communes du référentiel départemental ; il ne mesure ni une part de marché ni une disponibilité pour intervenir. Les domaines non classés dans ces cinq familles sont documentés dans le contrôle qualité de la source.",
+  "url": "https://sotani77.github.io/open-data-conformite-rge-france/qualifications-rge-metiers-departements/",
+  "dateModified": "2026-11-02",
+  "license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Legibat - Observatoire de la Conformité BTP",
+    "url": "https://legibat.fr"
+  },
+  "isBasedOn": "https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "code_departement",
+      "description": "Code département ou territoire du référentiel API Geo."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "famille",
+      "description": "Identifiant de famille : pv, pac, isolation, chauffage, menuiserie."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "famille_travaux",
+      "description": "Libellé de la famille de travaux."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nb_qualifications",
+      "description": "Combinaisons distinctes établissement-organisme-code-domaine valides ; pas un nombre d'entreprises."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nb_communes_reference",
+      "description": "Nombre total de communes du département dans le référentiel utilisé."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nb_communes_avec_qualification",
+      "description": "Communes avec au moins une qualification de cette famille rattachée."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "part_communes_avec_qualification_pct",
+      "description": "100 × communes avec qualification / communes du référentiel départemental."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "date_observation",
+      "description": "Date de validité des qualifications et d'observation."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "donnees_partielles",
+      "description": "Vrai pour une démonstration, dont la publication est interdite."
+    }
+  ],
+  "sameAs": [
+    "https://www.data.gouv.fr/datasets/qualifications-rge-actives-par-famille-de-travaux-et-departement-2026"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://static.data.gouv.fr/resources/qualifications-rge-actives-par-famille-de-travaux-et-departement-2026/20261102-181440/qualifications-rge-metiers-departements-2026.csv",
+      "encodingFormat": "csv"
+    },
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://static.data.gouv.fr/resources/qualifications-rge-actives-par-famille-de-travaux-et-departement-2026/20261102-181440/qualifications-rge-metiers-departements-2026.parquet",
+      "encodingFormat": "parquet"
+    }
+  ]
+}

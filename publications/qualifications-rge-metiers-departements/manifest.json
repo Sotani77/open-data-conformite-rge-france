@@ -1,0 +1,26 @@
+{
+  "qualifications-rge-metiers-departements-2026.csv": {
+    "sha256": "410d1641c676c81623403e38d8f690480a1a172b75dd52cc28154e45ace9d33c",
+    "bytes": 33100
+  },
+  "qualifications-rge-metiers-departements-2026.parquet": {
+    "sha256": "72e2364aa5db7b2f3c382215cd48cf86e43854655a3ab08ec1848dd9f75a0ffe",
+    "bytes": 15879
+  },
+  "schema.json": {
+    "sha256": "aa16c2108cae80edef37ced9c56c7d54151506ffb82a34d74066c939928d70db",
+    "bytes": 2112
+  },
+  "synthese.json": {
+    "sha256": "85aed0cb4b316a64bac5e185d6f49325b2c8b4d67ab24931e0e319f2dd309bea",
+    "bytes": 906
+  },
+  "provenance.json": {
+    "sha256": "98a13b22f6f098650a0351501b24b5e52a6544c0d807b44ab22a3301ba1f07af",
+    "bytes": 1559
+  },
+  "quality-report.json": {
+    "sha256": "1c212b63303ccdb14140ce50c227e198dcf18149574a91559425b5aac831d33c",
+    "bytes": 1098
+  }
+}

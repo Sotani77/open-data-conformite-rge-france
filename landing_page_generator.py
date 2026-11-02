@@ -130,6 +130,11 @@ def generate_landing(result, output: Path, settings, publication):
     write_text(output / "landing/legibat.html", head + fragment + "</main></body></html>")
     chart = '<figure><img src="assets/couverture-regions.svg" alt="Entreprises RGE pour 1 000 logements par région"><figcaption>Les valeurs détaillées sont disponibles dans le tableau ci-dessus.</figcaption></figure>'
     pages_body = intro.replace("<h2>Comment lire", chart + "<h2>Comment lire")
+    pages_body = pages_body.replace(
+        "</h1>",
+        '</h1><nav aria-label="Publications complémentaires"><a href="publications/">Communes sans établissement RGE et qualifications par famille</a></nav>',
+        1,
+    )
     write_text(output / "docs/index.html", head + pages_body + script + "</main></body></html>")
     write_text(output / "docs/.nojekyll", "")
     return [

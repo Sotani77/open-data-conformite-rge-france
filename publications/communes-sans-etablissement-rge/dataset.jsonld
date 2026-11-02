@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Communes sans établissement de travaux RGE actif recensé — 2026",
+  "description": "La sélection conserve toutes les communes du référentiel API Geo dont le nombre d'établissements de travaux RGE actifs rattachés est exactement nul. Elle inclut aussi les communes sans dénominateur logement connu : celles-ci restent identifiables dans les colonnes source_logements et nb_logements. Aucun effectif nul ne résulte du remplacement d'une valeur manquante. La synthèse fournit, pour chaque département, le nombre de communes de référence, le nombre sélectionné, leur part et les sommes de population et de logements connues. Ces sommes ne mesurent pas des personnes privées d'accès à un artisan. L'absence d'implantation recensée n'est ni une preuve d'absence de professionnels intervenant sur place, ni une mesure de pénurie.",
+  "url": "https://sotani77.github.io/open-data-conformite-rge-france/communes-sans-etablissement-rge/",
+  "dateModified": "2026-11-02",
+  "license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Legibat - Observatoire de la Conformité BTP",
+    "url": "https://legibat.fr"
+  },
+  "isBasedOn": "https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "code_insee",
+      "description": "Code commune INSEE, conservant les zéros initiaux et la Corse."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nom_commune",
+      "description": "Nom officiel de commune au jour de collecte API Geo."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "code_departement",
+      "description": "Code du département ; DOM sur trois caractères."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "code_region",
+      "description": "Code de région INSEE."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nom_region",
+      "description": "Nom de la région dans l'API Geo."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "population",
+      "description": "Population fournie par l'API Geo ; millésime non exposé, null si absent."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nb_logements",
+      "description": "Parc INSEE tous logements ; proxy population/taille_ménage si estimation explicite. Null si manquant."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "source_logements",
+      "description": "INSEE, estimation_population, manquant ou fictif."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "millesime_logements",
+      "description": "Année de référence du recensement INSEE, différente de l'année RGE."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nb_entreprises_rge",
+      "description": "SIREN distincts disposant d'au moins un établissement de travaux RGE actif dans la commune."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "nb_etablissements_rge",
+      "description": "SIRET distincts de travaux RGE dont les dates englobent la date d'observation."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "date_observation",
+      "description": "Date de contrôle de validité des qualifications (bornes inclusives)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "donnees_partielles",
+      "description": "Vrai pour démonstration ou collecte limitée, dont la publication est interdite."
+    }
+  ],
+  "sameAs": [
+    "https://www.data.gouv.fr/datasets/communes-sans-etablissement-de-travaux-rge-actif-recense-2026"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://static.data.gouv.fr/resources/communes-sans-etablissement-de-travaux-rge-actif-recense-2026/20261102-181427/communes-sans-etablissement-rge-2026.csv",
+      "encodingFormat": "csv"
+    },
+    {
+      "@type": "DataDownload",
+      "contentUrl": "https://static.data.gouv.fr/resources/communes-sans-etablissement-de-travaux-rge-actif-recense-2026/20261102-181432/communes-sans-etablissement-rge-2026.parquet",
+      "encodingFormat": "parquet"
+    }
+  ]
+}

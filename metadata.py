@@ -212,6 +212,9 @@ Les ratios portent sur les communes au dénominateur connu. Les SIREN sont dédu
 
 ## Fichiers
 
+- [Communes sans établissement RGE recensé](publications/communes-sans-etablissement-rge/README.md)
+- [Qualifications par famille de travaux et département](publications/qualifications-rge-metiers-departements/README.md)
+
 - [CSV, séparateur point-virgule](dist_data/{settings.stem}.csv)
 - [CSV, séparateur virgule](dist_data/{settings.stem}-comma.csv)
 - [Parquet typé](dist_data/{settings.stem}.parquet)

@@ -218,6 +218,24 @@ workflow planifié après soixante jours sans activité du dépôt.
 
 ## 7. Pages et intégration Legibat
 
+Deux jeux complémentaires sont générés et publiés à partir de la même collecte
+validée, avec une actualisation dans le workflow hebdomadaire existant :
+
+- `publications/communes-sans-etablissement-rge/` : sélection des communes sans
+  implantation RGE de travaux recensée, avec synthèse départementale. Cette
+  absence ne décrit pas la disponibilité des professionnels des communes voisines.
+- `publications/qualifications-rge-metiers-departements/` : tableau long par
+  département et famille de travaux. Les qualifications ne sont pas des entreprises
+  et les familles se chevauchent ; leurs effectifs ne doivent pas être additionnés.
+
+Chaque dossier contient CSV, Parquet, synthèse, schéma, provenance, qualité,
+empreintes, documentation et Data Package. Les pages correspondantes sont dans
+`docs/`, accessibles depuis `docs/publications/index.html`. Les identifiants
+data.gouv.fr sont conservés séparément par sujet et année ; une relance actualise
+les mêmes ressources. Le baromètre départemental indépendant de l'organisation
+n'est pas modifié par ce pipeline. Les vérifications couvrent les trois datasets,
+les téléchargements de chaque jeu et les pages dédiées.
+
 - `docs/index.html` : page GitHub Pages, tableau régional, graphique SVG et JSON-LD.
 - `landing/legibat.html` : page complète avec styles pour consultation.
 - `landing/legibat-fragment.html` : article et JSON-LD à coller dans le CMS ; adapter

@@ -177,6 +177,7 @@ def source_files(root: Path):
         "github_publisher.py",
         "github_git_transport.py",
         "verify_publication.py",
+        "complementary_publications.py",
         "landing_page_generator.py",
         "metadata.py",
         "requirements.txt",

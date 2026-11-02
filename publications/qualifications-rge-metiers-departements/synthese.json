@@ -1,0 +1,37 @@
+{
+  "nb_departements_ou_territoires": 109,
+  "nb_familles": 5,
+  "nb_lignes": 545,
+  "familles": [
+    {
+      "famille": "pv",
+      "famille_travaux": "Photovoltaïque",
+      "nb_qualifications": 5925,
+      "nb_communes_avec_qualification": 3433
+    },
+    {
+      "famille": "pac",
+      "famille_travaux": "Pompes à chaleur",
+      "nb_qualifications": 31529,
+      "nb_communes_avec_qualification": 7914
+    },
+    {
+      "famille": "isolation",
+      "famille_travaux": "Isolation",
+      "nb_qualifications": 50714,
+      "nb_communes_avec_qualification": 8865
+    },
+    {
+      "famille": "chauffage",
+      "famille_travaux": "Chauffage",
+      "nb_qualifications": 38261,
+      "nb_communes_avec_qualification": 9066
+    },
+    {
+      "famille": "menuiserie",
+      "famille_travaux": "Menuiserie",
+      "nb_qualifications": 20845,
+      "nb_communes_avec_qualification": 8507
+    }
+  ]
+}

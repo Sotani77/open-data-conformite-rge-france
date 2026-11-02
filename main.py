@@ -10,6 +10,7 @@ from pathlib import Path
 from pydantic import ValidationError
 
 from common import Http, PipelineError, State, write_json
+from complementary_publications import build_topics, publish_topics, render_topics
 from config import Settings, paris_today
 from datagouv_client import DataGouvClient
 from dataset_builder import build_dataset, export_dataset, fetch_live, sample_inputs
@@ -77,11 +78,13 @@ def run(args):
         http.close()
     result = build_dataset(*inputs, settings)
     files = export_dataset(result, output, settings)
+    topics = build_topics(result, output, settings)
     publication = {"status": "local", "dry_run": args.dry_run}
 
     def render():
         artifacts = generate_metadata(result, output, settings, files, publication)
         artifacts += generate_landing(result, output, settings, publication)
+        artifacts += render_topics(topics, output, settings, publication)
         write_json(output / "publication.json", publication)
         return files + artifacts + [output / "publication.json"] + source_files(output)
 
@@ -142,6 +145,9 @@ def run(args):
             }
             for r in resources
         ]
+        publication["complementary"] = publish_topics(
+            topics, settings, dg_http, state, org, publication
+        )
         publication["status"] = "data-gouv-published"
         generated = render()
         committed = gh.sync(output, generated, f"Mettre à jour les données RGE au {settings.as_of}")

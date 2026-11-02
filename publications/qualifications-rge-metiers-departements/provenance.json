@@ -1,0 +1,38 @@
+{
+  "mode": "live",
+  "partial": false,
+  "ademe_url": "https://data.ademe.fr/data-fair/api/v1/datasets/liste-des-entreprises-rge-2",
+  "ademe_data_updated_at": "2026-11-02T04:01:35.364Z",
+  "ademe_total": 157758,
+  "collected_at": "2026-11-02T18:12:12.642620+00:00",
+  "geo_url": "https://geo.api.gouv.fr/communes",
+  "population_millesime": "non fourni par l'API Geo ; date de collecte conservée",
+  "ademe_license": {
+    "title": "Licence Ouverte / Open Licence",
+    "href": "https://www.etalab.gouv.fr/licence-ouverte-open-licence"
+  },
+  "input_sha256": {
+    "rge.json": "ef76fb29ee22809166b624355a3f66839ea6e73d65e30a109e8bb182b8339d04",
+    "communes.json": "8db6d465c02d13f72086f91e913823f7d45dfa1f22e93242d03412f50cec86b6",
+    "regions.json": "f89eab91c42fae17ddfc5ea779607c7c0ab3f91d99cdd37e4d6561b8de1b456c"
+  },
+  "housing": {
+    "url": "https://www.insee.fr/fr/statistiques/fichier/2521169/comparateur.parquet",
+    "file": "comparateur.parquet",
+    "sha256": "81636463002d4f40d30dd92646de37107872af136ff1a1b2a37219c4570abf68",
+    "year": 2023,
+    "geography_year": 2026
+  },
+  "as_of": "2026-11-02",
+  "methodology_version": "1.0.0",
+  "housing_mode": "insee",
+  "thresholds_per_1000_housing": [
+    2.0,
+    5.0
+  ],
+  "household_size": null,
+  "transformation": "qualifications-rge-metiers-departements",
+  "transformation_version": "1.0.0",
+  "source_manifest_sha256": "3258233526198017b0318bb7cff12fd219beec4a70c717cc8b908806f11e72c8",
+  "source_parquet_sha256": "d96d26f1007efc1d9b9834ac4055d460785473c1afb7dbf8fbea26f805132109"
+}

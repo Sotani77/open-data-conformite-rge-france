@@ -1,0 +1,26 @@
+{
+  "communes-sans-etablissement-rge-2026.csv": {
+    "sha256": "1b31bea70148a93a9411ed42b0fdc6e21fb5f3513eb8efb4613bd47be67a4a8d",
+    "bytes": 1731478
+  },
+  "communes-sans-etablissement-rge-2026.parquet": {
+    "sha256": "d69e0d126427d8e82f42638ccdd95527112c020539615274305e4934f71b407e",
+    "bytes": 549826
+  },
+  "schema.json": {
+    "sha256": "cd45d23a181a4242c952e8d78bb03e9155610bb415542e3a6b453be7a6e1ae2c",
+    "bytes": 3754
+  },
+  "synthese.json": {
+    "sha256": "5fd6c8d28b9a5ab5c7866deeba9017d2daba090121ddc7fd007baf52f8e3f15b",
+    "bytes": 43545
+  },
+  "provenance.json": {
+    "sha256": "8160133018e993c365a11c6d07532df097334fb11c426da85c3efef4e984ef10",
+    "bytes": 1551
+  },
+  "quality-report.json": {
+    "sha256": "8c7def850f04a2de030737e06736538192fbb10d4b72bbeea67fff29637ded75",
+    "bytes": 1100
+  }
+}

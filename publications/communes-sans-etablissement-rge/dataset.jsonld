@@ -4,7 +4,7 @@
   "name": "Communes sans établissement de travaux RGE actif recensé — 2026",
   "description": "La sélection conserve toutes les communes du référentiel API Geo dont le nombre d'établissements de travaux RGE actifs rattachés est exactement nul. Elle inclut aussi les communes sans dénominateur logement connu : celles-ci restent identifiables dans les colonnes source_logements et nb_logements. Aucun effectif nul ne résulte du remplacement d'une valeur manquante. La synthèse fournit, pour chaque département, le nombre de communes de référence, le nombre sélectionné, leur part et les sommes de population et de logements connues. Ces sommes ne mesurent pas des personnes privées d'accès à un artisan. L'absence d'implantation recensée n'est ni une preuve d'absence de professionnels intervenant sur place, ni une mesure de pénurie.",
   "url": "https://sotani77.github.io/open-data-conformite-rge-france/communes-sans-etablissement-rge/",
-  "dateModified": "2026-11-02",
+  "dateModified": "2026-11-09",
   "license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
   "creator": {
     "@type": "Organization",
@@ -85,12 +85,12 @@
   "distribution": [
     {
       "@type": "DataDownload",
-      "contentUrl": "https://static.data.gouv.fr/resources/communes-sans-etablissement-de-travaux-rge-actif-recense-2026/20261102-181427/communes-sans-etablissement-rge-2026.csv",
+      "contentUrl": "https://static.data.gouv.fr/resources/communes-sans-etablissement-de-travaux-rge-actif-recense-2026/20261109-163439/communes-sans-etablissement-rge-2026.csv",
       "encodingFormat": "csv"
     },
     {
       "@type": "DataDownload",
-      "contentUrl": "https://static.data.gouv.fr/resources/communes-sans-etablissement-de-travaux-rge-actif-recense-2026/20261102-181432/communes-sans-etablissement-rge-2026.parquet",
+      "contentUrl": "https://static.data.gouv.fr/resources/communes-sans-etablissement-de-travaux-rge-actif-recense-2026/20261109-163440/communes-sans-etablissement-rge-2026.parquet",
       "encodingFormat": "parquet"
     }
   ]

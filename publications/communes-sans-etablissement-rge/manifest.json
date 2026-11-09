@@ -1,26 +1,26 @@
 {
   "communes-sans-etablissement-rge-2026.csv": {
-    "sha256": "1b31bea70148a93a9411ed42b0fdc6e21fb5f3513eb8efb4613bd47be67a4a8d",
-    "bytes": 1731478
+    "sha256": "950cd953eb503207c3583bb761674411f7c09ba2c62781e39eedda7274f9b209",
+    "bytes": 1732092
   },
   "communes-sans-etablissement-rge-2026.parquet": {
-    "sha256": "d69e0d126427d8e82f42638ccdd95527112c020539615274305e4934f71b407e",
-    "bytes": 549826
+    "sha256": "df6c79fb811b4ff24e944e25b75e07af79a3347e8fd5374b10f444967c90eb55",
+    "bytes": 552315
   },
   "schema.json": {
     "sha256": "cd45d23a181a4242c952e8d78bb03e9155610bb415542e3a6b453be7a6e1ae2c",
     "bytes": 3754
   },
   "synthese.json": {
-    "sha256": "5fd6c8d28b9a5ab5c7866deeba9017d2daba090121ddc7fd007baf52f8e3f15b",
-    "bytes": 43545
+    "sha256": "f52d7812e4b77b2fa2cfa8366550ab193a9e5af54fc9de83b4f97f4e5bac1233",
+    "bytes": 43520
   },
   "provenance.json": {
-    "sha256": "8160133018e993c365a11c6d07532df097334fb11c426da85c3efef4e984ef10",
+    "sha256": "33ddc18d53e91ea956fb8755d44cfff0fd89c9601d35a67121d32a956994ccaa",
     "bytes": 1551
   },
   "quality-report.json": {
-    "sha256": "8c7def850f04a2de030737e06736538192fbb10d4b72bbeea67fff29637ded75",
-    "bytes": 1100
+    "sha256": "4fec744c9a2333cc48d609faf66f591e901ecea70e04366767b17cb2f0ec7a87",
+    "bytes": 1101
   }
 }

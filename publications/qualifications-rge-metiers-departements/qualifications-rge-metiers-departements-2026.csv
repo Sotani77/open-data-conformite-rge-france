@@ -1,546 +1,546 @@
 code_departement;famille;famille_travaux;nb_qualifications;nb_communes_reference;nb_communes_avec_qualification;part_communes_avec_qualification_pct;date_observation;donnees_partielles
-01;pv;Photovoltaïque;100;391;73;18.670077;2026-11-02;False
-01;pac;Pompes à chaleur;401;391;127;32.480818;2026-11-02;False
-01;isolation;Isolation;397;391;101;25.831202;2026-11-02;False
-01;chauffage;Chauffage;461;391;139;35.549872;2026-11-02;False
-01;menuiserie;Menuiserie;204;391;108;27.621483;2026-11-02;False
-02;pv;Photovoltaïque;19;797;15;1.882058;2026-11-02;False
-02;pac;Pompes à chaleur;252;797;92;11.543287;2026-11-02;False
-02;isolation;Isolation;496;797;116;14.55458;2026-11-02;False
-02;chauffage;Chauffage;336;797;108;13.550816;2026-11-02;False
-02;menuiserie;Menuiserie;213;797;106;13.299875;2026-11-02;False
-03;pv;Photovoltaïque;40;317;24;7.570978;2026-11-02;False
-03;pac;Pompes à chaleur;190;317;56;17.665615;2026-11-02;False
-03;isolation;Isolation;295;317;68;21.451104;2026-11-02;False
-03;chauffage;Chauffage;275;317;63;19.873817;2026-11-02;False
-03;menuiserie;Menuiserie;157;317;71;22.397476;2026-11-02;False
-04;pv;Photovoltaïque;39;198;24;12.121212;2026-11-02;False
-04;pac;Pompes à chaleur;106;198;27;13.636364;2026-11-02;False
-04;isolation;Isolation;125;198;28;14.141414;2026-11-02;False
-04;chauffage;Chauffage;130;198;31;15.656566;2026-11-02;False
-04;menuiserie;Menuiserie;46;198;30;15.151515;2026-11-02;False
-05;pv;Photovoltaïque;25;162;17;10.493827;2026-11-02;False
-05;pac;Pompes à chaleur;85;162;29;17.901235;2026-11-02;False
-05;isolation;Isolation;201;162;38;23.45679;2026-11-02;False
-05;chauffage;Chauffage;117;162;32;19.753086;2026-11-02;False
-05;menuiserie;Menuiserie;81;162;33;20.37037;2026-11-02;False
-06;pv;Photovoltaïque;59;163;22;13.496933;2026-11-02;False
-06;pac;Pompes à chaleur;314;163;40;24.539877;2026-11-02;False
-06;isolation;Isolation;259;163;36;22.08589;2026-11-02;False
-06;chauffage;Chauffage;278;163;42;25.766871;2026-11-02;False
-06;menuiserie;Menuiserie;162;163;35;21.472393;2026-11-02;False
-07;pv;Photovoltaïque;90;335;62;18.507463;2026-11-02;False
-07;pac;Pompes à chaleur;300;335;91;27.164179;2026-11-02;False
-07;isolation;Isolation;552;335;106;31.641791;2026-11-02;False
-07;chauffage;Chauffage;395;335;103;30.746269;2026-11-02;False
-07;menuiserie;Menuiserie;210;335;98;29.253731;2026-11-02;False
-08;pv;Photovoltaïque;8;447;8;1.789709;2026-11-02;False
-08;pac;Pompes à chaleur;114;447;43;9.619687;2026-11-02;False
-08;isolation;Isolation;345;447;78;17.449664;2026-11-02;False
-08;chauffage;Chauffage;179;447;54;12.080537;2026-11-02;False
-08;menuiserie;Menuiserie;138;447;72;16.107383;2026-11-02;False
-09;pv;Photovoltaïque;29;325;21;6.461538;2026-11-02;False
-09;pac;Pompes à chaleur;119;325;31;9.538462;2026-11-02;False
-09;isolation;Isolation;180;325;38;11.692308;2026-11-02;False
-09;chauffage;Chauffage;192;325;40;12.307692;2026-11-02;False
-09;menuiserie;Menuiserie;69;325;42;12.923077;2026-11-02;False
-10;pv;Photovoltaïque;27;431;21;4.87239;2026-11-02;False
-10;pac;Pompes à chaleur;214;431;69;16.009281;2026-11-02;False
-10;isolation;Isolation;339;431;73;16.937355;2026-11-02;False
-10;chauffage;Chauffage;246;431;76;17.633411;2026-11-02;False
-10;menuiserie;Menuiserie;145;431;70;16.241299;2026-11-02;False
-11;pv;Photovoltaïque;60;433;33;7.621247;2026-11-02;False
-11;pac;Pompes à chaleur;203;433;53;12.240185;2026-11-02;False
-11;isolation;Isolation;233;433;53;12.240185;2026-11-02;False
-11;chauffage;Chauffage;191;433;59;13.625866;2026-11-02;False
-11;menuiserie;Menuiserie;92;433;54;12.471132;2026-11-02;False
-12;pv;Photovoltaïque;44;285;32;11.22807;2026-11-02;False
-12;pac;Pompes à chaleur;283;285;81;28.421053;2026-11-02;False
-12;isolation;Isolation;349;285;82;28.77193;2026-11-02;False
-12;chauffage;Chauffage;392;285;93;32.631579;2026-11-02;False
-12;menuiserie;Menuiserie;140;285;68;23.859649;2026-11-02;False
-13;pv;Photovoltaïque;137;119;47;39.495798;2026-11-02;False
-13;pac;Pompes à chaleur;513;119;76;63.865546;2026-11-02;False
-13;isolation;Isolation;455;119;64;53.781513;2026-11-02;False
-13;chauffage;Chauffage;417;119;79;66.386555;2026-11-02;False
-13;menuiserie;Menuiserie;252;119;66;55.462185;2026-11-02;False
-14;pv;Photovoltaïque;34;526;21;3.992395;2026-11-02;False
-14;pac;Pompes à chaleur;321;526;91;17.30038;2026-11-02;False
-14;isolation;Isolation;695;526;139;26.425856;2026-11-02;False
-14;chauffage;Chauffage;439;526;111;21.102662;2026-11-02;False
-14;menuiserie;Menuiserie;293;526;129;24.524715;2026-11-02;False
-15;pv;Photovoltaïque;23;250;14;5.6;2026-11-02;False
-15;pac;Pompes à chaleur;115;250;32;12.8;2026-11-02;False
-15;isolation;Isolation;212;250;48;19.2;2026-11-02;False
-15;chauffage;Chauffage;205;250;42;16.8;2026-11-02;False
-15;menuiserie;Menuiserie;113;250;51;20.4;2026-11-02;False
-16;pv;Photovoltaïque;58;359;42;11.699164;2026-11-02;False
-16;pac;Pompes à chaleur;271;359;77;21.448468;2026-11-02;False
-16;isolation;Isolation;285;359;67;18.662953;2026-11-02;False
-16;chauffage;Chauffage;321;359;84;23.398329;2026-11-02;False
-16;menuiserie;Menuiserie;108;359;56;15.598886;2026-11-02;False
-17;pv;Photovoltaïque;101;462;57;12.337662;2026-11-02;False
-17;pac;Pompes à chaleur;482;462;137;29.65368;2026-11-02;False
-17;isolation;Isolation;316;462;95;20.562771;2026-11-02;False
-17;chauffage;Chauffage;474;462;148;32.034632;2026-11-02;False
-17;menuiserie;Menuiserie;158;462;87;18.831169;2026-11-02;False
-18;pv;Photovoltaïque;14;286;14;4.895105;2026-11-02;False
-18;pac;Pompes à chaleur;154;286;47;16.433566;2026-11-02;False
-18;isolation;Isolation;181;286;41;14.335664;2026-11-02;False
-18;chauffage;Chauffage;174;286;55;19.230769;2026-11-02;False
-18;menuiserie;Menuiserie;112;286;47;16.433566;2026-11-02;False
-19;pv;Photovoltaïque;35;277;19;6.859206;2026-11-02;False
-19;pac;Pompes à chaleur;224;277;57;20.577617;2026-11-02;False
-19;isolation;Isolation;244;277;49;17.689531;2026-11-02;False
-19;chauffage;Chauffage;295;277;71;25.631769;2026-11-02;False
-19;menuiserie;Menuiserie;109;277;52;18.772563;2026-11-02;False
-21;pv;Photovoltaïque;51;698;29;4.154728;2026-11-02;False
-21;pac;Pompes à chaleur;305;698;81;11.604585;2026-11-02;False
-21;isolation;Isolation;437;698;98;14.040115;2026-11-02;False
-21;chauffage;Chauffage;444;698;101;14.469914;2026-11-02;False
-21;menuiserie;Menuiserie;208;698;106;15.186246;2026-11-02;False
-22;pv;Photovoltaïque;45;344;32;9.302326;2026-11-02;False
-22;pac;Pompes à chaleur;487;344;124;36.046512;2026-11-02;False
-22;isolation;Isolation;985;344;152;44.186047;2026-11-02;False
-22;chauffage;Chauffage;554;344;138;40.116279;2026-11-02;False
-22;menuiserie;Menuiserie;368;344;150;43.604651;2026-11-02;False
-23;pv;Photovoltaïque;14;255;9;3.529412;2026-11-02;False
-23;pac;Pompes à chaleur;90;255;30;11.764706;2026-11-02;False
-23;isolation;Isolation;148;255;42;16.470588;2026-11-02;False
-23;chauffage;Chauffage;163;255;39;15.294118;2026-11-02;False
-23;menuiserie;Menuiserie;67;255;37;14.509804;2026-11-02;False
-24;pv;Photovoltaïque;67;503;45;8.946322;2026-11-02;False
-24;pac;Pompes à chaleur;358;503;100;19.880716;2026-11-02;False
-24;isolation;Isolation;257;503;76;15.109344;2026-11-02;False
-24;chauffage;Chauffage;379;503;113;22.465209;2026-11-02;False
-24;menuiserie;Menuiserie;119;503;78;15.506958;2026-11-02;False
-25;pv;Photovoltaïque;51;563;35;6.216696;2026-11-02;False
-25;pac;Pompes à chaleur;222;563;69;12.255773;2026-11-02;False
-25;isolation;Isolation;589;563;129;22.912966;2026-11-02;False
-25;chauffage;Chauffage;385;563;94;16.69627;2026-11-02;False
-25;menuiserie;Menuiserie;248;563;123;21.847247;2026-11-02;False
-26;pv;Photovoltaïque;126;362;69;19.060773;2026-11-02;False
-26;pac;Pompes à chaleur;405;362;89;24.585635;2026-11-02;False
-26;isolation;Isolation;716;362;104;28.729282;2026-11-02;False
-26;chauffage;Chauffage;527;362;102;28.176796;2026-11-02;False
-26;menuiserie;Menuiserie;262;362;91;25.138122;2026-11-02;False
-27;pv;Photovoltaïque;20;585;17;2.905983;2026-11-02;False
-27;pac;Pompes à chaleur;283;585;95;16.239316;2026-11-02;False
-27;isolation;Isolation;500;585;113;19.316239;2026-11-02;False
-27;chauffage;Chauffage;315;585;115;19.65812;2026-11-02;False
-27;menuiserie;Menuiserie;229;585;114;19.487179;2026-11-02;False
-28;pv;Photovoltaïque;23;363;17;4.683196;2026-11-02;False
-28;pac;Pompes à chaleur;227;363;76;20.936639;2026-11-02;False
-28;isolation;Isolation;271;363;58;15.977961;2026-11-02;False
-28;chauffage;Chauffage;242;363;89;24.517906;2026-11-02;False
-28;menuiserie;Menuiserie;128;363;69;19.008264;2026-11-02;False
-29;pv;Photovoltaïque;59;277;35;12.635379;2026-11-02;False
-29;pac;Pompes à chaleur;566;277;131;47.292419;2026-11-02;False
-29;isolation;Isolation;874;277;134;48.375451;2026-11-02;False
-29;chauffage;Chauffage;695;277;141;50.902527;2026-11-02;False
-29;menuiserie;Menuiserie;381;277;128;46.209386;2026-11-02;False
-2A;pv;Photovoltaïque;23;124;9;7.258065;2026-11-02;False
-2A;pac;Pompes à chaleur;100;124;18;14.516129;2026-11-02;False
-2A;isolation;Isolation;128;124;22;17.741935;2026-11-02;False
-2A;chauffage;Chauffage;73;124;19;15.322581;2026-11-02;False
-2A;menuiserie;Menuiserie;37;124;16;12.903226;2026-11-02;False
-2B;pv;Photovoltaïque;27;236;13;5.508475;2026-11-02;False
-2B;pac;Pompes à chaleur;138;236;32;13.559322;2026-11-02;False
-2B;isolation;Isolation;152;236;23;9.745763;2026-11-02;False
-2B;chauffage;Chauffage;101;236;33;13.983051;2026-11-02;False
-2B;menuiserie;Menuiserie;29;236;13;5.508475;2026-11-02;False
-30;pv;Photovoltaïque;173;350;82;23.428571;2026-11-02;False
-30;pac;Pompes à chaleur;417;350;99;28.285714;2026-11-02;False
-30;isolation;Isolation;314;350;83;23.714286;2026-11-02;False
-30;chauffage;Chauffage;352;350;109;31.142857;2026-11-02;False
-30;menuiserie;Menuiserie;124;350;66;18.857143;2026-11-02;False
-31;pv;Photovoltaïque;218;586;104;17.74744;2026-11-02;False
-31;pac;Pompes à chaleur;766;586;155;26.450512;2026-11-02;False
-31;isolation;Isolation;699;586;146;24.914676;2026-11-02;False
-31;chauffage;Chauffage;687;586;164;27.986348;2026-11-02;False
-31;menuiserie;Menuiserie;257;586;122;20.819113;2026-11-02;False
-32;pv;Photovoltaïque;36;458;28;6.113537;2026-11-02;False
-32;pac;Pompes à chaleur;175;458;58;12.663755;2026-11-02;False
-32;isolation;Isolation;173;458;55;12.008734;2026-11-02;False
-32;chauffage;Chauffage;174;458;64;13.973799;2026-11-02;False
-32;menuiserie;Menuiserie;57;458;40;8.733624;2026-11-02;False
-33;pv;Photovoltaïque;222;534;95;17.790262;2026-11-02;False
-33;pac;Pompes à chaleur;779;534;169;31.64794;2026-11-02;False
-33;isolation;Isolation;704;534;156;29.213483;2026-11-02;False
-33;chauffage;Chauffage;737;534;188;35.205993;2026-11-02;False
-33;menuiserie;Menuiserie;294;534;136;25.468165;2026-11-02;False
-34;pv;Photovoltaïque;237;341;96;28.152493;2026-11-02;False
-34;pac;Pompes à chaleur;566;341;120;35.190616;2026-11-02;False
-34;isolation;Isolation;577;341;105;30.791789;2026-11-02;False
-34;chauffage;Chauffage;472;341;125;36.656891;2026-11-02;False
-34;menuiserie;Menuiserie;235;341;108;31.671554;2026-11-02;False
-35;pv;Photovoltaïque;55;332;45;13.554217;2026-11-02;False
-35;pac;Pompes à chaleur;582;332;142;42.771084;2026-11-02;False
-35;isolation;Isolation;937;332;168;50.60241;2026-11-02;False
-35;chauffage;Chauffage;700;332;159;47.891566;2026-11-02;False
-35;menuiserie;Menuiserie;311;332;139;41.86747;2026-11-02;False
-36;pv;Photovoltaïque;12;241;8;3.319502;2026-11-02;False
-36;pac;Pompes à chaleur;174;241;44;18.257261;2026-11-02;False
-36;isolation;Isolation;226;241;38;15.767635;2026-11-02;False
-36;chauffage;Chauffage;190;241;47;19.502075;2026-11-02;False
-36;menuiserie;Menuiserie;107;241;43;17.842324;2026-11-02;False
-37;pv;Photovoltaïque;41;272;30;11.029412;2026-11-02;False
-37;pac;Pompes à chaleur;343;272;81;29.779412;2026-11-02;False
-37;isolation;Isolation;396;272;87;31.985294;2026-11-02;False
-37;chauffage;Chauffage;323;272;85;31.25;2026-11-02;False
-37;menuiserie;Menuiserie;190;272;95;34.926471;2026-11-02;False
-38;pv;Photovoltaïque;159;512;104;20.3125;2026-11-02;False
-38;pac;Pompes à chaleur;776;512;192;37.5;2026-11-02;False
-38;isolation;Isolation;1170;512;208;40.625;2026-11-02;False
-38;chauffage;Chauffage;930;512;223;43.554688;2026-11-02;False
-38;menuiserie;Menuiserie;543;512;213;41.601562;2026-11-02;False
-39;pv;Photovoltaïque;38;492;34;6.910569;2026-11-02;False
-39;pac;Pompes à chaleur;162;492;58;11.788618;2026-11-02;False
-39;isolation;Isolation;376;492;81;16.463415;2026-11-02;False
-39;chauffage;Chauffage;262;492;70;14.227642;2026-11-02;False
-39;menuiserie;Menuiserie;168;492;88;17.886179;2026-11-02;False
-40;pv;Photovoltaïque;61;327;48;14.678899;2026-11-02;False
-40;pac;Pompes à chaleur;298;327;83;25.382263;2026-11-02;False
-40;isolation;Isolation;278;327;89;27.217125;2026-11-02;False
-40;chauffage;Chauffage;253;327;87;26.605505;2026-11-02;False
-40;menuiserie;Menuiserie;106;327;72;22.018349;2026-11-02;False
-41;pv;Photovoltaïque;27;267;20;7.490637;2026-11-02;False
-41;pac;Pompes à chaleur;208;267;61;22.846442;2026-11-02;False
-41;isolation;Isolation;331;267;67;25.093633;2026-11-02;False
-41;chauffage;Chauffage;240;267;72;26.966292;2026-11-02;False
-41;menuiserie;Menuiserie;145;267;75;28.089888;2026-11-02;False
-42;pv;Photovoltaïque;97;320;60;18.75;2026-11-02;False
-42;pac;Pompes à chaleur;484;320;119;37.1875;2026-11-02;False
-42;isolation;Isolation;940;320;139;43.4375;2026-11-02;False
-42;chauffage;Chauffage;760;320;141;44.0625;2026-11-02;False
-42;menuiserie;Menuiserie;380;320;137;42.8125;2026-11-02;False
-43;pv;Photovoltaïque;44;257;29;11.284047;2026-11-02;False
-43;pac;Pompes à chaleur;226;257;61;23.735409;2026-11-02;False
-43;isolation;Isolation;361;257;73;28.404669;2026-11-02;False
-43;chauffage;Chauffage;376;257;73;28.404669;2026-11-02;False
-43;menuiserie;Menuiserie;147;257;73;28.404669;2026-11-02;False
-44;pv;Photovoltaïque;101;207;58;28.019324;2026-11-02;False
-44;pac;Pompes à chaleur;631;207;128;61.835749;2026-11-02;False
-44;isolation;Isolation;1245;207;144;69.565217;2026-11-02;False
-44;chauffage;Chauffage;795;207;140;67.63285;2026-11-02;False
-44;menuiserie;Menuiserie;472;207;138;66.666667;2026-11-02;False
-45;pv;Photovoltaïque;42;325;29;8.923077;2026-11-02;False
-45;pac;Pompes à chaleur;358;325;98;30.153846;2026-11-02;False
-45;isolation;Isolation;486;325;101;31.076923;2026-11-02;False
-45;chauffage;Chauffage;395;325;113;34.769231;2026-11-02;False
-45;menuiserie;Menuiserie;250;325;100;30.769231;2026-11-02;False
-46;pv;Photovoltaïque;23;312;20;6.410256;2026-11-02;False
-46;pac;Pompes à chaleur;138;312;51;16.346154;2026-11-02;False
-46;isolation;Isolation;209;312;56;17.948718;2026-11-02;False
-46;chauffage;Chauffage;162;312;59;18.910256;2026-11-02;False
-46;menuiserie;Menuiserie;67;312;42;13.461538;2026-11-02;False
-47;pv;Photovoltaïque;63;319;43;13.479624;2026-11-02;False
-47;pac;Pompes à chaleur;295;319;87;27.272727;2026-11-02;False
-47;isolation;Isolation;253;319;71;22.257053;2026-11-02;False
-47;chauffage;Chauffage;308;319;96;30.094044;2026-11-02;False
-47;menuiserie;Menuiserie;102;319;60;18.808777;2026-11-02;False
-48;pv;Photovoltaïque;6;152;4;2.631579;2026-11-02;False
-48;pac;Pompes à chaleur;55;152;17;11.184211;2026-11-02;False
-48;isolation;Isolation;108;152;30;19.736842;2026-11-02;False
-48;chauffage;Chauffage;106;152;22;14.473684;2026-11-02;False
-48;menuiserie;Menuiserie;37;152;20;13.157895;2026-11-02;False
-49;pv;Photovoltaïque;99;176;46;26.136364;2026-11-02;False
-49;pac;Pompes à chaleur;588;176;86;48.863636;2026-11-02;False
-49;isolation;Isolation;1010;176;108;61.363636;2026-11-02;False
-49;chauffage;Chauffage;755;176;91;51.704545;2026-11-02;False
-49;menuiserie;Menuiserie;402;176;94;53.409091;2026-11-02;False
-50;pv;Photovoltaïque;17;445;16;3.595506;2026-11-02;False
-50;pac;Pompes à chaleur;296;445;92;20.674157;2026-11-02;False
-50;isolation;Isolation;941;445;133;29.88764;2026-11-02;False
-50;chauffage;Chauffage;433;445;110;24.719101;2026-11-02;False
-50;menuiserie;Menuiserie;372;445;135;30.337079;2026-11-02;False
-51;pv;Photovoltaïque;30;610;21;3.442623;2026-11-02;False
-51;pac;Pompes à chaleur;222;610;66;10.819672;2026-11-02;False
-51;isolation;Isolation;509;610;88;14.42623;2026-11-02;False
-51;chauffage;Chauffage;285;610;76;12.459016;2026-11-02;False
-51;menuiserie;Menuiserie;215;610;87;14.262295;2026-11-02;False
-52;pv;Photovoltaïque;16;426;14;3.286385;2026-11-02;False
-52;pac;Pompes à chaleur;114;426;37;8.685446;2026-11-02;False
-52;isolation;Isolation;267;426;52;12.206573;2026-11-02;False
-52;chauffage;Chauffage;204;426;49;11.502347;2026-11-02;False
-52;menuiserie;Menuiserie;76;426;45;10.56338;2026-11-02;False
-53;pv;Photovoltaïque;30;240;28;11.666667;2026-11-02;False
-53;pac;Pompes à chaleur;240;240;64;26.666667;2026-11-02;False
-53;isolation;Isolation;577;240;89;37.083333;2026-11-02;False
-53;chauffage;Chauffage;468;240;71;29.583333;2026-11-02;False
-53;menuiserie;Menuiserie;206;240;87;36.25;2026-11-02;False
-54;pv;Photovoltaïque;55;591;41;6.937394;2026-11-02;False
-54;pac;Pompes à chaleur;386;591;119;20.135364;2026-11-02;False
-54;isolation;Isolation;561;591;110;18.612521;2026-11-02;False
-54;chauffage;Chauffage;499;591;140;23.688663;2026-11-02;False
-54;menuiserie;Menuiserie;204;591;107;18.104907;2026-11-02;False
-55;pv;Photovoltaïque;21;499;16;3.206413;2026-11-02;False
-55;pac;Pompes à chaleur;133;499;50;10.02004;2026-11-02;False
-55;isolation;Isolation;213;499;57;11.422846;2026-11-02;False
-55;chauffage;Chauffage;231;499;64;12.825651;2026-11-02;False
-55;menuiserie;Menuiserie;77;499;55;11.022044;2026-11-02;False
-56;pv;Photovoltaïque;40;249;30;12.048193;2026-11-02;False
-56;pac;Pompes à chaleur;521;249;129;51.807229;2026-11-02;False
-56;isolation;Isolation;807;249;141;56.626506;2026-11-02;False
-56;chauffage;Chauffage;598;249;135;54.216867;2026-11-02;False
-56;menuiserie;Menuiserie;347;249;119;47.791165;2026-11-02;False
-57;pv;Photovoltaïque;61;725;38;5.241379;2026-11-02;False
-57;pac;Pompes à chaleur;473;725;132;18.206897;2026-11-02;False
-57;isolation;Isolation;711;725;142;19.586207;2026-11-02;False
-57;chauffage;Chauffage;675;725;155;21.37931;2026-11-02;False
-57;menuiserie;Menuiserie;220;725;121;16.689655;2026-11-02;False
-58;pv;Photovoltaïque;12;309;8;2.588997;2026-11-02;False
-58;pac;Pompes à chaleur;112;309;34;11.003236;2026-11-02;False
-58;isolation;Isolation;217;309;40;12.944984;2026-11-02;False
-58;chauffage;Chauffage;156;309;39;12.621359;2026-11-02;False
-58;menuiserie;Menuiserie;104;309;49;15.857605;2026-11-02;False
-59;pv;Photovoltaïque;98;647;64;9.891808;2026-11-02;False
-59;pac;Pompes à chaleur;789;647;208;32.148377;2026-11-02;False
-59;isolation;Isolation;2302;647;280;43.276662;2026-11-02;False
-59;chauffage;Chauffage;1074;647;256;39.567233;2026-11-02;False
-59;menuiserie;Menuiserie;906;647;292;45.131376;2026-11-02;False
-60;pv;Photovoltaïque;27;680;24;3.529412;2026-11-02;False
-60;pac;Pompes à chaleur;253;680;89;13.088235;2026-11-02;False
-60;isolation;Isolation;396;680;125;18.382353;2026-11-02;False
-60;chauffage;Chauffage;284;680;118;17.352941;2026-11-02;False
-60;menuiserie;Menuiserie;221;680;124;18.235294;2026-11-02;False
-61;pv;Photovoltaïque;19;381;17;4.461942;2026-11-02;False
-61;pac;Pompes à chaleur;212;381;71;18.635171;2026-11-02;False
-61;isolation;Isolation;558;381;111;29.133858;2026-11-02;False
-61;chauffage;Chauffage;291;381;81;21.259843;2026-11-02;False
-61;menuiserie;Menuiserie;218;381;98;25.721785;2026-11-02;False
-62;pv;Photovoltaïque;82;887;64;7.215333;2026-11-02;False
-62;pac;Pompes à chaleur;570;887;176;19.842165;2026-11-02;False
-62;isolation;Isolation;1805;887;262;29.537768;2026-11-02;False
-62;chauffage;Chauffage;746;887;216;24.351747;2026-11-02;False
-62;menuiserie;Menuiserie;681;887;258;29.086809;2026-11-02;False
-63;pv;Photovoltaïque;60;463;37;7.991361;2026-11-02;False
-63;pac;Pompes à chaleur;369;463;105;22.678186;2026-11-02;False
-63;isolation;Isolation;625;463;129;27.861771;2026-11-02;False
-63;chauffage;Chauffage;500;463;129;27.861771;2026-11-02;False
-63;menuiserie;Menuiserie;272;463;112;24.190065;2026-11-02;False
-64;pv;Photovoltaïque;87;545;57;10.458716;2026-11-02;False
-64;pac;Pompes à chaleur;410;545;110;20.183486;2026-11-02;False
-64;isolation;Isolation;455;545;135;24.770642;2026-11-02;False
-64;chauffage;Chauffage;414;545;129;23.669725;2026-11-02;False
-64;menuiserie;Menuiserie;221;545;116;21.284404;2026-11-02;False
-65;pv;Photovoltaïque;28;469;21;4.477612;2026-11-02;False
-65;pac;Pompes à chaleur;134;469;39;8.315565;2026-11-02;False
-65;isolation;Isolation;192;469;56;11.940299;2026-11-02;False
-65;chauffage;Chauffage;145;469;45;9.594883;2026-11-02;False
-65;menuiserie;Menuiserie;84;469;49;10.447761;2026-11-02;False
-66;pv;Photovoltaïque;104;226;39;17.256637;2026-11-02;False
-66;pac;Pompes à chaleur;229;226;36;15.929204;2026-11-02;False
-66;isolation;Isolation;222;226;49;21.681416;2026-11-02;False
-66;chauffage;Chauffage;212;226;43;19.026549;2026-11-02;False
-66;menuiserie;Menuiserie;115;226;49;21.681416;2026-11-02;False
-67;pv;Photovoltaïque;134;514;79;15.36965;2026-11-02;False
-67;pac;Pompes à chaleur;633;514;166;32.29572;2026-11-02;False
-67;isolation;Isolation;1121;514;188;36.575875;2026-11-02;False
-67;chauffage;Chauffage;800;514;192;37.354086;2026-11-02;False
-67;menuiserie;Menuiserie;346;514;163;31.712062;2026-11-02;False
-68;pv;Photovoltaïque;80;366;48;13.114754;2026-11-02;False
-68;pac;Pompes à chaleur;382;366;98;26.775956;2026-11-02;False
-68;isolation;Isolation;725;366;110;30.054645;2026-11-02;False
-68;chauffage;Chauffage;580;366;116;31.693989;2026-11-02;False
-68;menuiserie;Menuiserie;232;366;106;28.961749;2026-11-02;False
-69;pv;Photovoltaïque;223;266;97;36.466165;2026-11-02;False
-69;pac;Pompes à chaleur;856;266;148;55.639098;2026-11-02;False
-69;isolation;Isolation;1168;266;157;59.022556;2026-11-02;False
-69;chauffage;Chauffage;932;266;159;59.774436;2026-11-02;False
-69;menuiserie;Menuiserie;539;266;154;57.894737;2026-11-02;False
-70;pv;Photovoltaïque;29;536;25;4.664179;2026-11-02;False
-70;pac;Pompes à chaleur;149;536;53;9.88806;2026-11-02;False
-70;isolation;Isolation;221;536;49;9.141791;2026-11-02;False
-70;chauffage;Chauffage;265;536;61;11.380597;2026-11-02;False
-70;menuiserie;Menuiserie;85;536;61;11.380597;2026-11-02;False
-71;pv;Photovoltaïque;65;563;39;6.927176;2026-11-02;False
-71;pac;Pompes à chaleur;429;563;136;24.156306;2026-11-02;False
-71;isolation;Isolation;594;563;133;23.623446;2026-11-02;False
-71;chauffage;Chauffage;562;563;145;25.754885;2026-11-02;False
-71;menuiserie;Menuiserie;280;563;150;26.642984;2026-11-02;False
-72;pv;Photovoltaïque;40;352;28;7.954545;2026-11-02;False
-72;pac;Pompes à chaleur;335;352;92;26.136364;2026-11-02;False
-72;isolation;Isolation;532;352;113;32.102273;2026-11-02;False
-72;chauffage;Chauffage;486;352;108;30.681818;2026-11-02;False
-72;menuiserie;Menuiserie;232;352;109;30.965909;2026-11-02;False
-73;pv;Photovoltaïque;46;273;35;12.820513;2026-11-02;False
-73;pac;Pompes à chaleur;276;273;71;26.007326;2026-11-02;False
-73;isolation;Isolation;598;273;87;31.868132;2026-11-02;False
-73;chauffage;Chauffage;350;273;86;31.501832;2026-11-02;False
-73;menuiserie;Menuiserie;268;273;96;35.164835;2026-11-02;False
-74;pv;Photovoltaïque;51;279;33;11.827957;2026-11-02;False
-74;pac;Pompes à chaleur;321;279;97;34.767025;2026-11-02;False
-74;isolation;Isolation;450;279;101;36.200717;2026-11-02;False
-74;chauffage;Chauffage;354;279;109;39.0681;2026-11-02;False
-74;menuiserie;Menuiserie;243;279;93;33.333333;2026-11-02;False
-75;pv;Photovoltaïque;66;1;1;100.0;2026-11-02;False
-75;pac;Pompes à chaleur;309;1;1;100.0;2026-11-02;False
-75;isolation;Isolation;519;1;1;100.0;2026-11-02;False
-75;chauffage;Chauffage;350;1;1;100.0;2026-11-02;False
-75;menuiserie;Menuiserie;164;1;1;100.0;2026-11-02;False
-76;pv;Photovoltaïque;35;707;25;3.536068;2026-11-02;False
-76;pac;Pompes à chaleur;413;707;118;16.69024;2026-11-02;False
-76;isolation;Isolation;833;707;183;25.884017;2026-11-02;False
-76;chauffage;Chauffage;580;707;144;20.367751;2026-11-02;False
-76;menuiserie;Menuiserie;433;707;189;26.732673;2026-11-02;False
-77;pv;Photovoltaïque;54;507;45;8.87574;2026-11-02;False
-77;pac;Pompes à chaleur;529;507;132;26.035503;2026-11-02;False
-77;isolation;Isolation;1190;507;146;28.796844;2026-11-02;False
-77;chauffage;Chauffage;641;507;152;29.980276;2026-11-02;False
-77;menuiserie;Menuiserie;471;507;153;30.177515;2026-11-02;False
-78;pv;Photovoltaïque;24;259;20;7.722008;2026-11-02;False
-78;pac;Pompes à chaleur;343;259;91;35.135135;2026-11-02;False
-78;isolation;Isolation;659;259;101;38.996139;2026-11-02;False
-78;chauffage;Chauffage;414;259;109;42.084942;2026-11-02;False
-78;menuiserie;Menuiserie;271;259;100;38.610039;2026-11-02;False
-79;pv;Photovoltaïque;68;252;42;16.666667;2026-11-02;False
-79;pac;Pompes à chaleur;272;252;73;28.968254;2026-11-02;False
-79;isolation;Isolation;371;252;75;29.761905;2026-11-02;False
-79;chauffage;Chauffage;403;252;81;32.142857;2026-11-02;False
-79;menuiserie;Menuiserie;162;252;73;28.968254;2026-11-02;False
-80;pv;Photovoltaïque;20;771;17;2.204929;2026-11-02;False
-80;pac;Pompes à chaleur;204;771;66;8.560311;2026-11-02;False
-80;isolation;Isolation;432;771;102;13.229572;2026-11-02;False
-80;chauffage;Chauffage;292;771;87;11.284047;2026-11-02;False
-80;menuiserie;Menuiserie;189;771;99;12.840467;2026-11-02;False
-81;pv;Photovoltaïque;92;314;46;14.649682;2026-11-02;False
-81;pac;Pompes à chaleur;382;314;86;27.388535;2026-11-02;False
-81;isolation;Isolation;338;314;72;22.929936;2026-11-02;False
-81;chauffage;Chauffage;399;314;89;28.343949;2026-11-02;False
-81;menuiserie;Menuiserie;144;314;73;23.248408;2026-11-02;False
-82;pv;Photovoltaïque;56;195;26;13.333333;2026-11-02;False
-82;pac;Pompes à chaleur;247;195;49;25.128205;2026-11-02;False
-82;isolation;Isolation;169;195;37;18.974359;2026-11-02;False
-82;chauffage;Chauffage;215;195;55;28.205128;2026-11-02;False
-82;menuiserie;Menuiserie;67;195;37;18.974359;2026-11-02;False
-83;pv;Photovoltaïque;101;153;52;33.986928;2026-11-02;False
-83;pac;Pompes à chaleur;319;153;58;37.908497;2026-11-02;False
-83;isolation;Isolation;250;153;43;28.104575;2026-11-02;False
-83;chauffage;Chauffage;261;153;64;41.830065;2026-11-02;False
-83;menuiserie;Menuiserie;162;153;51;33.333333;2026-11-02;False
-84;pv;Photovoltaïque;89;151;40;26.490066;2026-11-02;False
-84;pac;Pompes à chaleur;359;151;69;45.695364;2026-11-02;False
-84;isolation;Isolation;311;151;55;36.423841;2026-11-02;False
-84;chauffage;Chauffage;291;151;73;48.344371;2026-11-02;False
-84;menuiserie;Menuiserie;146;151;51;33.774834;2026-11-02;False
-85;pv;Photovoltaïque;171;253;88;34.782609;2026-11-02;False
-85;pac;Pompes à chaleur;607;253;126;49.802372;2026-11-02;False
-85;isolation;Isolation;1038;253;168;66.403162;2026-11-02;False
-85;chauffage;Chauffage;798;253;135;53.359684;2026-11-02;False
-85;menuiserie;Menuiserie;485;253;160;63.241107;2026-11-02;False
-86;pv;Photovoltaïque;55;265;33;12.45283;2026-11-02;False
-86;pac;Pompes à chaleur;317;265;80;30.188679;2026-11-02;False
-86;isolation;Isolation;224;265;63;23.773585;2026-11-02;False
-86;chauffage;Chauffage;384;265;90;33.962264;2026-11-02;False
-86;menuiserie;Menuiserie;126;265;63;23.773585;2026-11-02;False
-87;pv;Photovoltaïque;57;195;29;14.871795;2026-11-02;False
-87;pac;Pompes à chaleur;255;195;54;27.692308;2026-11-02;False
-87;isolation;Isolation;304;195;50;25.641026;2026-11-02;False
-87;chauffage;Chauffage;358;195;63;32.307692;2026-11-02;False
-87;menuiserie;Menuiserie;138;195;50;25.641026;2026-11-02;False
-88;pv;Photovoltaïque;46;506;35;6.916996;2026-11-02;False
-88;pac;Pompes à chaleur;298;506;99;19.565217;2026-11-02;False
-88;isolation;Isolation;598;506;123;24.3083;2026-11-02;False
-88;chauffage;Chauffage;540;506;112;22.134387;2026-11-02;False
-88;menuiserie;Menuiserie;211;506;107;21.146245;2026-11-02;False
-89;pv;Photovoltaïque;25;423;17;4.018913;2026-11-02;False
-89;pac;Pompes à chaleur;209;423;76;17.966903;2026-11-02;False
-89;isolation;Isolation;344;423;89;21.040189;2026-11-02;False
-89;chauffage;Chauffage;336;423;87;20.567376;2026-11-02;False
-89;menuiserie;Menuiserie;181;423;102;24.113475;2026-11-02;False
-90;pv;Photovoltaïque;10;101;8;7.920792;2026-11-02;False
-90;pac;Pompes à chaleur;64;101;21;20.792079;2026-11-02;False
-90;isolation;Isolation;163;101;29;28.712871;2026-11-02;False
-90;chauffage;Chauffage;79;101;24;23.762376;2026-11-02;False
-90;menuiserie;Menuiserie;30;101;22;21.782178;2026-11-02;False
-91;pv;Photovoltaïque;31;194;21;10.824742;2026-11-02;False
-91;pac;Pompes à chaleur;410;194;94;48.453608;2026-11-02;False
-91;isolation;Isolation;1134;194;100;51.546392;2026-11-02;False
-91;chauffage;Chauffage;468;194;104;53.608247;2026-11-02;False
-91;menuiserie;Menuiserie;487;194;100;51.546392;2026-11-02;False
-92;pv;Photovoltaïque;46;36;16;44.444444;2026-11-02;False
-92;pac;Pompes à chaleur;236;36;31;86.111111;2026-11-02;False
-92;isolation;Isolation;563;36;33;91.666667;2026-11-02;False
-92;chauffage;Chauffage;266;36;33;91.666667;2026-11-02;False
-92;menuiserie;Menuiserie;195;36;30;83.333333;2026-11-02;False
-93;pv;Photovoltaïque;48;39;20;51.282051;2026-11-02;False
-93;pac;Pompes à chaleur;346;39;33;84.615385;2026-11-02;False
-93;isolation;Isolation;701;39;38;97.435897;2026-11-02;False
-93;chauffage;Chauffage;390;39;36;92.307692;2026-11-02;False
-93;menuiserie;Menuiserie;195;39;36;92.307692;2026-11-02;False
-94;pv;Photovoltaïque;46;47;19;40.425532;2026-11-02;False
-94;pac;Pompes à chaleur;353;47;41;87.234043;2026-11-02;False
-94;isolation;Isolation;1043;47;44;93.617021;2026-11-02;False
-94;chauffage;Chauffage;454;47;43;91.489362;2026-11-02;False
-94;menuiserie;Menuiserie;319;47;41;87.234043;2026-11-02;False
-95;pv;Photovoltaïque;37;183;18;9.836066;2026-11-02;False
-95;pac;Pompes à chaleur;305;183;70;38.251366;2026-11-02;False
-95;isolation;Isolation;608;183;72;39.344262;2026-11-02;False
-95;chauffage;Chauffage;350;183;78;42.622951;2026-11-02;False
-95;menuiserie;Menuiserie;225;183;67;36.612022;2026-11-02;False
-971;pv;Photovoltaïque;17;32;10;31.25;2026-11-02;False
-971;pac;Pompes à chaleur;8;32;3;9.375;2026-11-02;False
-971;isolation;Isolation;25;32;6;18.75;2026-11-02;False
-971;chauffage;Chauffage;16;32;7;21.875;2026-11-02;False
-971;menuiserie;Menuiserie;2;32;1;3.125;2026-11-02;False
-972;pv;Photovoltaïque;16;34;9;26.470588;2026-11-02;False
-972;pac;Pompes à chaleur;7;34;3;8.823529;2026-11-02;False
-972;isolation;Isolation;25;34;6;17.647059;2026-11-02;False
-972;chauffage;Chauffage;9;34;4;11.764706;2026-11-02;False
-972;menuiserie;Menuiserie;0;34;0;0.0;2026-11-02;False
-973;pv;Photovoltaïque;7;22;4;18.181818;2026-11-02;False
-973;pac;Pompes à chaleur;1;22;1;4.545455;2026-11-02;False
-973;isolation;Isolation;4;22;1;4.545455;2026-11-02;False
-973;chauffage;Chauffage;9;22;5;22.727273;2026-11-02;False
-973;menuiserie;Menuiserie;0;22;0;0.0;2026-11-02;False
-974;pv;Photovoltaïque;50;24;13;54.166667;2026-11-02;False
-974;pac;Pompes à chaleur;27;24;9;37.5;2026-11-02;False
-974;isolation;Isolation;92;24;15;62.5;2026-11-02;False
-974;chauffage;Chauffage;39;24;13;54.166667;2026-11-02;False
-974;menuiserie;Menuiserie;6;24;5;20.833333;2026-11-02;False
-975;pv;Photovoltaïque;0;2;0;0.0;2026-11-02;False
-975;pac;Pompes à chaleur;0;2;0;0.0;2026-11-02;False
-975;isolation;Isolation;0;2;0;0.0;2026-11-02;False
-975;chauffage;Chauffage;0;2;0;0.0;2026-11-02;False
-975;menuiserie;Menuiserie;0;2;0;0.0;2026-11-02;False
-976;pv;Photovoltaïque;1;17;1;5.882353;2026-11-02;False
-976;pac;Pompes à chaleur;1;17;1;5.882353;2026-11-02;False
-976;isolation;Isolation;0;17;0;0.0;2026-11-02;False
-976;chauffage;Chauffage;2;17;2;11.764706;2026-11-02;False
-976;menuiserie;Menuiserie;0;17;0;0.0;2026-11-02;False
-977;pv;Photovoltaïque;0;1;0;0.0;2026-11-02;False
-977;pac;Pompes à chaleur;0;1;0;0.0;2026-11-02;False
-977;isolation;Isolation;0;1;0;0.0;2026-11-02;False
-977;chauffage;Chauffage;0;1;0;0.0;2026-11-02;False
-977;menuiserie;Menuiserie;0;1;0;0.0;2026-11-02;False
-978;pv;Photovoltaïque;0;1;0;0.0;2026-11-02;False
-978;pac;Pompes à chaleur;1;1;1;100.0;2026-11-02;False
-978;isolation;Isolation;0;1;0;0.0;2026-11-02;False
-978;chauffage;Chauffage;1;1;1;100.0;2026-11-02;False
-978;menuiserie;Menuiserie;0;1;0;0.0;2026-11-02;False
-984;pv;Photovoltaïque;0;5;0;0.0;2026-11-02;False
-984;pac;Pompes à chaleur;0;5;0;0.0;2026-11-02;False
-984;isolation;Isolation;0;5;0;0.0;2026-11-02;False
-984;chauffage;Chauffage;0;5;0;0.0;2026-11-02;False
-984;menuiserie;Menuiserie;0;5;0;0.0;2026-11-02;False
-986;pv;Photovoltaïque;0;3;0;0.0;2026-11-02;False
-986;pac;Pompes à chaleur;0;3;0;0.0;2026-11-02;False
-986;isolation;Isolation;0;3;0;0.0;2026-11-02;False
-986;chauffage;Chauffage;0;3;0;0.0;2026-11-02;False
-986;menuiserie;Menuiserie;0;3;0;0.0;2026-11-02;False
-987;pv;Photovoltaïque;0;48;0;0.0;2026-11-02;False
-987;pac;Pompes à chaleur;0;48;0;0.0;2026-11-02;False
-987;isolation;Isolation;0;48;0;0.0;2026-11-02;False
-987;chauffage;Chauffage;0;48;0;0.0;2026-11-02;False
-987;menuiserie;Menuiserie;0;48;0;0.0;2026-11-02;False
-988;pv;Photovoltaïque;0;33;0;0.0;2026-11-02;False
-988;pac;Pompes à chaleur;0;33;0;0.0;2026-11-02;False
-988;isolation;Isolation;0;33;0;0.0;2026-11-02;False
-988;chauffage;Chauffage;0;33;0;0.0;2026-11-02;False
-988;menuiserie;Menuiserie;0;33;0;0.0;2026-11-02;False
-989;pv;Photovoltaïque;0;1;0;0.0;2026-11-02;False
-989;pac;Pompes à chaleur;0;1;0;0.0;2026-11-02;False
-989;isolation;Isolation;0;1;0;0.0;2026-11-02;False
-989;chauffage;Chauffage;0;1;0;0.0;2026-11-02;False
-989;menuiserie;Menuiserie;0;1;0;0.0;2026-11-02;False
+01;pv;Photovoltaïque;99;391;73;18.670077;2026-11-09;False
+01;pac;Pompes à chaleur;400;391;126;32.225064;2026-11-09;False
+01;isolation;Isolation;401;391;101;25.831202;2026-11-09;False
+01;chauffage;Chauffage;460;391;139;35.549872;2026-11-09;False
+01;menuiserie;Menuiserie;204;391;108;27.621483;2026-11-09;False
+02;pv;Photovoltaïque;19;797;15;1.882058;2026-11-09;False
+02;pac;Pompes à chaleur;246;797;90;11.292346;2026-11-09;False
+02;isolation;Isolation;495;797;118;14.805521;2026-11-09;False
+02;chauffage;Chauffage;332;797;107;13.425345;2026-11-09;False
+02;menuiserie;Menuiserie;211;797;106;13.299875;2026-11-09;False
+03;pv;Photovoltaïque;40;317;24;7.570978;2026-11-09;False
+03;pac;Pompes à chaleur;188;317;56;17.665615;2026-11-09;False
+03;isolation;Isolation;296;317;68;21.451104;2026-11-09;False
+03;chauffage;Chauffage;274;317;63;19.873817;2026-11-09;False
+03;menuiserie;Menuiserie;157;317;71;22.397476;2026-11-09;False
+04;pv;Photovoltaïque;39;198;24;12.121212;2026-11-09;False
+04;pac;Pompes à chaleur;110;198;27;13.636364;2026-11-09;False
+04;isolation;Isolation;125;198;28;14.141414;2026-11-09;False
+04;chauffage;Chauffage;132;198;31;15.656566;2026-11-09;False
+04;menuiserie;Menuiserie;45;198;30;15.151515;2026-11-09;False
+05;pv;Photovoltaïque;25;162;17;10.493827;2026-11-09;False
+05;pac;Pompes à chaleur;85;162;29;17.901235;2026-11-09;False
+05;isolation;Isolation;201;162;38;23.45679;2026-11-09;False
+05;chauffage;Chauffage;115;162;32;19.753086;2026-11-09;False
+05;menuiserie;Menuiserie;81;162;32;19.753086;2026-11-09;False
+06;pv;Photovoltaïque;58;163;22;13.496933;2026-11-09;False
+06;pac;Pompes à chaleur;310;163;39;23.92638;2026-11-09;False
+06;isolation;Isolation;258;163;36;22.08589;2026-11-09;False
+06;chauffage;Chauffage;275;163;42;25.766871;2026-11-09;False
+06;menuiserie;Menuiserie;161;163;35;21.472393;2026-11-09;False
+07;pv;Photovoltaïque;90;335;62;18.507463;2026-11-09;False
+07;pac;Pompes à chaleur;296;335;91;27.164179;2026-11-09;False
+07;isolation;Isolation;552;335;106;31.641791;2026-11-09;False
+07;chauffage;Chauffage;387;335;103;30.746269;2026-11-09;False
+07;menuiserie;Menuiserie;210;335;98;29.253731;2026-11-09;False
+08;pv;Photovoltaïque;8;447;8;1.789709;2026-11-09;False
+08;pac;Pompes à chaleur;114;447;43;9.619687;2026-11-09;False
+08;isolation;Isolation;328;447;77;17.225951;2026-11-09;False
+08;chauffage;Chauffage;179;447;54;12.080537;2026-11-09;False
+08;menuiserie;Menuiserie;134;447;71;15.883669;2026-11-09;False
+09;pv;Photovoltaïque;28;325;21;6.461538;2026-11-09;False
+09;pac;Pompes à chaleur;117;325;31;9.538462;2026-11-09;False
+09;isolation;Isolation;177;325;36;11.076923;2026-11-09;False
+09;chauffage;Chauffage;189;325;39;12.0;2026-11-09;False
+09;menuiserie;Menuiserie;68;325;42;12.923077;2026-11-09;False
+10;pv;Photovoltaïque;25;431;20;4.640371;2026-11-09;False
+10;pac;Pompes à chaleur;214;431;69;16.009281;2026-11-09;False
+10;isolation;Isolation;333;431;74;17.169374;2026-11-09;False
+10;chauffage;Chauffage;246;431;76;17.633411;2026-11-09;False
+10;menuiserie;Menuiserie;144;431;69;16.009281;2026-11-09;False
+11;pv;Photovoltaïque;60;433;33;7.621247;2026-11-09;False
+11;pac;Pompes à chaleur;201;433;53;12.240185;2026-11-09;False
+11;isolation;Isolation;228;433;52;12.009238;2026-11-09;False
+11;chauffage;Chauffage;187;433;58;13.394919;2026-11-09;False
+11;menuiserie;Menuiserie;93;433;53;12.240185;2026-11-09;False
+12;pv;Photovoltaïque;44;285;32;11.22807;2026-11-09;False
+12;pac;Pompes à chaleur;291;285;82;28.77193;2026-11-09;False
+12;isolation;Isolation;340;285;81;28.421053;2026-11-09;False
+12;chauffage;Chauffage;394;285;93;32.631579;2026-11-09;False
+12;menuiserie;Menuiserie;135;285;67;23.508772;2026-11-09;False
+13;pv;Photovoltaïque;137;119;45;37.815126;2026-11-09;False
+13;pac;Pompes à chaleur;510;119;74;62.184874;2026-11-09;False
+13;isolation;Isolation;454;119;64;53.781513;2026-11-09;False
+13;chauffage;Chauffage;413;119;77;64.705882;2026-11-09;False
+13;menuiserie;Menuiserie;251;119;65;54.621849;2026-11-09;False
+14;pv;Photovoltaïque;35;526;21;3.992395;2026-11-09;False
+14;pac;Pompes à chaleur;317;526;91;17.30038;2026-11-09;False
+14;isolation;Isolation;691;526;136;25.855513;2026-11-09;False
+14;chauffage;Chauffage;435;526;111;21.102662;2026-11-09;False
+14;menuiserie;Menuiserie;293;526;127;24.144487;2026-11-09;False
+15;pv;Photovoltaïque;23;250;14;5.6;2026-11-09;False
+15;pac;Pompes à chaleur;117;250;33;13.2;2026-11-09;False
+15;isolation;Isolation;212;250;48;19.2;2026-11-09;False
+15;chauffage;Chauffage;210;250;43;17.2;2026-11-09;False
+15;menuiserie;Menuiserie;114;250;52;20.8;2026-11-09;False
+16;pv;Photovoltaïque;57;359;42;11.699164;2026-11-09;False
+16;pac;Pompes à chaleur;274;359;77;21.448468;2026-11-09;False
+16;isolation;Isolation;285;359;66;18.384401;2026-11-09;False
+16;chauffage;Chauffage;319;359;84;23.398329;2026-11-09;False
+16;menuiserie;Menuiserie;107;359;56;15.598886;2026-11-09;False
+17;pv;Photovoltaïque;101;462;57;12.337662;2026-11-09;False
+17;pac;Pompes à chaleur;476;462;135;29.220779;2026-11-09;False
+17;isolation;Isolation;315;462;95;20.562771;2026-11-09;False
+17;chauffage;Chauffage;471;462;146;31.601732;2026-11-09;False
+17;menuiserie;Menuiserie;160;462;87;18.831169;2026-11-09;False
+18;pv;Photovoltaïque;13;286;13;4.545455;2026-11-09;False
+18;pac;Pompes à chaleur;154;286;47;16.433566;2026-11-09;False
+18;isolation;Isolation;182;286;42;14.685315;2026-11-09;False
+18;chauffage;Chauffage;173;286;55;19.230769;2026-11-09;False
+18;menuiserie;Menuiserie;112;286;48;16.783217;2026-11-09;False
+19;pv;Photovoltaïque;35;277;19;6.859206;2026-11-09;False
+19;pac;Pompes à chaleur;228;277;59;21.299639;2026-11-09;False
+19;isolation;Isolation;244;277;49;17.689531;2026-11-09;False
+19;chauffage;Chauffage;296;277;72;25.99278;2026-11-09;False
+19;menuiserie;Menuiserie;109;277;52;18.772563;2026-11-09;False
+21;pv;Photovoltaïque;49;698;28;4.011461;2026-11-09;False
+21;pac;Pompes à chaleur;299;698;80;11.461318;2026-11-09;False
+21;isolation;Isolation;435;698;98;14.040115;2026-11-09;False
+21;chauffage;Chauffage;439;698;101;14.469914;2026-11-09;False
+21;menuiserie;Menuiserie;206;698;105;15.04298;2026-11-09;False
+22;pv;Photovoltaïque;45;344;32;9.302326;2026-11-09;False
+22;pac;Pompes à chaleur;495;344;125;36.337209;2026-11-09;False
+22;isolation;Isolation;968;344;151;43.895349;2026-11-09;False
+22;chauffage;Chauffage;555;344;138;40.116279;2026-11-09;False
+22;menuiserie;Menuiserie;361;344;146;42.44186;2026-11-09;False
+23;pv;Photovoltaïque;14;255;9;3.529412;2026-11-09;False
+23;pac;Pompes à chaleur;90;255;30;11.764706;2026-11-09;False
+23;isolation;Isolation;147;255;42;16.470588;2026-11-09;False
+23;chauffage;Chauffage;161;255;39;15.294118;2026-11-09;False
+23;menuiserie;Menuiserie;67;255;37;14.509804;2026-11-09;False
+24;pv;Photovoltaïque;66;503;44;8.747515;2026-11-09;False
+24;pac;Pompes à chaleur;364;503;102;20.27833;2026-11-09;False
+24;isolation;Isolation;259;503;76;15.109344;2026-11-09;False
+24;chauffage;Chauffage;381;503;114;22.664016;2026-11-09;False
+24;menuiserie;Menuiserie;120;503;78;15.506958;2026-11-09;False
+25;pv;Photovoltaïque;52;563;35;6.216696;2026-11-09;False
+25;pac;Pompes à chaleur;216;563;67;11.900533;2026-11-09;False
+25;isolation;Isolation;589;563;129;22.912966;2026-11-09;False
+25;chauffage;Chauffage;379;563;93;16.51865;2026-11-09;False
+25;menuiserie;Menuiserie;248;563;123;21.847247;2026-11-09;False
+26;pv;Photovoltaïque;127;362;69;19.060773;2026-11-09;False
+26;pac;Pompes à chaleur;405;362;89;24.585635;2026-11-09;False
+26;isolation;Isolation;719;362;104;28.729282;2026-11-09;False
+26;chauffage;Chauffage;525;362;102;28.176796;2026-11-09;False
+26;menuiserie;Menuiserie;262;362;90;24.861878;2026-11-09;False
+27;pv;Photovoltaïque;21;585;18;3.076923;2026-11-09;False
+27;pac;Pompes à chaleur;285;585;95;16.239316;2026-11-09;False
+27;isolation;Isolation;496;585;111;18.974359;2026-11-09;False
+27;chauffage;Chauffage;317;585;115;19.65812;2026-11-09;False
+27;menuiserie;Menuiserie;228;585;113;19.316239;2026-11-09;False
+28;pv;Photovoltaïque;22;363;16;4.407713;2026-11-09;False
+28;pac;Pompes à chaleur;229;363;76;20.936639;2026-11-09;False
+28;isolation;Isolation;269;363;57;15.702479;2026-11-09;False
+28;chauffage;Chauffage;242;363;90;24.793388;2026-11-09;False
+28;menuiserie;Menuiserie;128;363;69;19.008264;2026-11-09;False
+29;pv;Photovoltaïque;57;277;34;12.274368;2026-11-09;False
+29;pac;Pompes à chaleur;570;277;133;48.01444;2026-11-09;False
+29;isolation;Isolation;866;277;133;48.01444;2026-11-09;False
+29;chauffage;Chauffage;700;277;143;51.624549;2026-11-09;False
+29;menuiserie;Menuiserie;379;277;127;45.848375;2026-11-09;False
+2A;pv;Photovoltaïque;24;124;10;8.064516;2026-11-09;False
+2A;pac;Pompes à chaleur;100;124;18;14.516129;2026-11-09;False
+2A;isolation;Isolation;130;124;23;18.548387;2026-11-09;False
+2A;chauffage;Chauffage;73;124;19;15.322581;2026-11-09;False
+2A;menuiserie;Menuiserie;37;124;16;12.903226;2026-11-09;False
+2B;pv;Photovoltaïque;27;236;13;5.508475;2026-11-09;False
+2B;pac;Pompes à chaleur;136;236;32;13.559322;2026-11-09;False
+2B;isolation;Isolation;154;236;24;10.169492;2026-11-09;False
+2B;chauffage;Chauffage;100;236;33;13.983051;2026-11-09;False
+2B;menuiserie;Menuiserie;30;236;14;5.932203;2026-11-09;False
+30;pv;Photovoltaïque;169;350;82;23.428571;2026-11-09;False
+30;pac;Pompes à chaleur;417;350;99;28.285714;2026-11-09;False
+30;isolation;Isolation;313;350;84;24.0;2026-11-09;False
+30;chauffage;Chauffage;352;350;110;31.428571;2026-11-09;False
+30;menuiserie;Menuiserie;126;350;67;19.142857;2026-11-09;False
+31;pv;Photovoltaïque;220;586;104;17.74744;2026-11-09;False
+31;pac;Pompes à chaleur;772;586;155;26.450512;2026-11-09;False
+31;isolation;Isolation;698;586;146;24.914676;2026-11-09;False
+31;chauffage;Chauffage;688;586;164;27.986348;2026-11-09;False
+31;menuiserie;Menuiserie;257;586;122;20.819113;2026-11-09;False
+32;pv;Photovoltaïque;38;458;28;6.113537;2026-11-09;False
+32;pac;Pompes à chaleur;175;458;57;12.445415;2026-11-09;False
+32;isolation;Isolation;173;458;55;12.008734;2026-11-09;False
+32;chauffage;Chauffage;171;458;63;13.755459;2026-11-09;False
+32;menuiserie;Menuiserie;56;458;39;8.515284;2026-11-09;False
+33;pv;Photovoltaïque;218;534;95;17.790262;2026-11-09;False
+33;pac;Pompes à chaleur;771;534;168;31.460674;2026-11-09;False
+33;isolation;Isolation;704;534;156;29.213483;2026-11-09;False
+33;chauffage;Chauffage;735;534;187;35.018727;2026-11-09;False
+33;menuiserie;Menuiserie;294;534;136;25.468165;2026-11-09;False
+34;pv;Photovoltaïque;233;341;95;27.859238;2026-11-09;False
+34;pac;Pompes à chaleur;560;341;120;35.190616;2026-11-09;False
+34;isolation;Isolation;564;341;104;30.498534;2026-11-09;False
+34;chauffage;Chauffage;470;341;125;36.656891;2026-11-09;False
+34;menuiserie;Menuiserie;232;341;108;31.671554;2026-11-09;False
+35;pv;Photovoltaïque;55;332;45;13.554217;2026-11-09;False
+35;pac;Pompes à chaleur;571;332;140;42.168675;2026-11-09;False
+35;isolation;Isolation;915;332;165;49.698795;2026-11-09;False
+35;chauffage;Chauffage;694;332;160;48.192771;2026-11-09;False
+35;menuiserie;Menuiserie;312;332;141;42.46988;2026-11-09;False
+36;pv;Photovoltaïque;12;241;8;3.319502;2026-11-09;False
+36;pac;Pompes à chaleur;172;241;43;17.842324;2026-11-09;False
+36;isolation;Isolation;224;241;38;15.767635;2026-11-09;False
+36;chauffage;Chauffage;187;241;47;19.502075;2026-11-09;False
+36;menuiserie;Menuiserie;106;241;42;17.427386;2026-11-09;False
+37;pv;Photovoltaïque;40;272;29;10.661765;2026-11-09;False
+37;pac;Pompes à chaleur;343;272;80;29.411765;2026-11-09;False
+37;isolation;Isolation;391;272;86;31.617647;2026-11-09;False
+37;chauffage;Chauffage;322;272;84;30.882353;2026-11-09;False
+37;menuiserie;Menuiserie;187;272;92;33.823529;2026-11-09;False
+38;pv;Photovoltaïque;159;512;104;20.3125;2026-11-09;False
+38;pac;Pompes à chaleur;778;512;194;37.890625;2026-11-09;False
+38;isolation;Isolation;1172;512;209;40.820312;2026-11-09;False
+38;chauffage;Chauffage;931;512;224;43.75;2026-11-09;False
+38;menuiserie;Menuiserie;543;512;213;41.601562;2026-11-09;False
+39;pv;Photovoltaïque;39;492;35;7.113821;2026-11-09;False
+39;pac;Pompes à chaleur;158;492;56;11.382114;2026-11-09;False
+39;isolation;Isolation;376;492;81;16.463415;2026-11-09;False
+39;chauffage;Chauffage;261;492;71;14.430894;2026-11-09;False
+39;menuiserie;Menuiserie;168;492;88;17.886179;2026-11-09;False
+40;pv;Photovoltaïque;62;327;48;14.678899;2026-11-09;False
+40;pac;Pompes à chaleur;302;327;84;25.688073;2026-11-09;False
+40;isolation;Isolation;278;327;89;27.217125;2026-11-09;False
+40;chauffage;Chauffage;254;327;87;26.605505;2026-11-09;False
+40;menuiserie;Menuiserie;108;327;72;22.018349;2026-11-09;False
+41;pv;Photovoltaïque;27;267;20;7.490637;2026-11-09;False
+41;pac;Pompes à chaleur;206;267;61;22.846442;2026-11-09;False
+41;isolation;Isolation;328;267;67;25.093633;2026-11-09;False
+41;chauffage;Chauffage;241;267;72;26.966292;2026-11-09;False
+41;menuiserie;Menuiserie;144;267;75;28.089888;2026-11-09;False
+42;pv;Photovoltaïque;97;320;60;18.75;2026-11-09;False
+42;pac;Pompes à chaleur;484;320;120;37.5;2026-11-09;False
+42;isolation;Isolation;941;320;139;43.4375;2026-11-09;False
+42;chauffage;Chauffage;755;320;140;43.75;2026-11-09;False
+42;menuiserie;Menuiserie;380;320;137;42.8125;2026-11-09;False
+43;pv;Photovoltaïque;45;257;30;11.673152;2026-11-09;False
+43;pac;Pompes à chaleur;230;257;62;24.124514;2026-11-09;False
+43;isolation;Isolation;362;257;74;28.793774;2026-11-09;False
+43;chauffage;Chauffage;381;257;73;28.404669;2026-11-09;False
+43;menuiserie;Menuiserie;147;257;73;28.404669;2026-11-09;False
+44;pv;Photovoltaïque;101;207;58;28.019324;2026-11-09;False
+44;pac;Pompes à chaleur;636;207;127;61.352657;2026-11-09;False
+44;isolation;Isolation;1223;207;144;69.565217;2026-11-09;False
+44;chauffage;Chauffage;783;207;139;67.149758;2026-11-09;False
+44;menuiserie;Menuiserie;467;207;138;66.666667;2026-11-09;False
+45;pv;Photovoltaïque;41;325;28;8.615385;2026-11-09;False
+45;pac;Pompes à chaleur;364;325;99;30.461538;2026-11-09;False
+45;isolation;Isolation;478;325;100;30.769231;2026-11-09;False
+45;chauffage;Chauffage;399;325;114;35.076923;2026-11-09;False
+45;menuiserie;Menuiserie;245;325;100;30.769231;2026-11-09;False
+46;pv;Photovoltaïque;23;312;20;6.410256;2026-11-09;False
+46;pac;Pompes à chaleur;142;312;52;16.666667;2026-11-09;False
+46;isolation;Isolation;201;312;55;17.628205;2026-11-09;False
+46;chauffage;Chauffage;166;312;60;19.230769;2026-11-09;False
+46;menuiserie;Menuiserie;65;312;41;13.141026;2026-11-09;False
+47;pv;Photovoltaïque;61;319;42;13.166144;2026-11-09;False
+47;pac;Pompes à chaleur;289;319;85;26.645768;2026-11-09;False
+47;isolation;Isolation;258;319;72;22.570533;2026-11-09;False
+47;chauffage;Chauffage;303;319;94;29.467085;2026-11-09;False
+47;menuiserie;Menuiserie;103;319;61;19.122257;2026-11-09;False
+48;pv;Photovoltaïque;6;152;4;2.631579;2026-11-09;False
+48;pac;Pompes à chaleur;55;152;17;11.184211;2026-11-09;False
+48;isolation;Isolation;110;152;31;20.394737;2026-11-09;False
+48;chauffage;Chauffage;106;152;22;14.473684;2026-11-09;False
+48;menuiserie;Menuiserie;39;152;20;13.157895;2026-11-09;False
+49;pv;Photovoltaïque;99;176;46;26.136364;2026-11-09;False
+49;pac;Pompes à chaleur;584;176;87;49.431818;2026-11-09;False
+49;isolation;Isolation;1008;176;108;61.363636;2026-11-09;False
+49;chauffage;Chauffage;750;176;91;51.704545;2026-11-09;False
+49;menuiserie;Menuiserie;402;176;95;53.977273;2026-11-09;False
+50;pv;Photovoltaïque;17;445;16;3.595506;2026-11-09;False
+50;pac;Pompes à chaleur;292;445;92;20.674157;2026-11-09;False
+50;isolation;Isolation;923;445;132;29.662921;2026-11-09;False
+50;chauffage;Chauffage;430;445;111;24.94382;2026-11-09;False
+50;menuiserie;Menuiserie;363;445;134;30.11236;2026-11-09;False
+51;pv;Photovoltaïque;31;610;21;3.442623;2026-11-09;False
+51;pac;Pompes à chaleur;224;610;67;10.983607;2026-11-09;False
+51;isolation;Isolation;506;610;88;14.42623;2026-11-09;False
+51;chauffage;Chauffage;279;610;75;12.295082;2026-11-09;False
+51;menuiserie;Menuiserie;216;610;87;14.262295;2026-11-09;False
+52;pv;Photovoltaïque;16;426;14;3.286385;2026-11-09;False
+52;pac;Pompes à chaleur;112;426;36;8.450704;2026-11-09;False
+52;isolation;Isolation;267;426;51;11.971831;2026-11-09;False
+52;chauffage;Chauffage;201;426;48;11.267606;2026-11-09;False
+52;menuiserie;Menuiserie;77;426;45;10.56338;2026-11-09;False
+53;pv;Photovoltaïque;29;240;27;11.25;2026-11-09;False
+53;pac;Pompes à chaleur;240;240;63;26.25;2026-11-09;False
+53;isolation;Isolation;575;240;89;37.083333;2026-11-09;False
+53;chauffage;Chauffage;467;240;69;28.75;2026-11-09;False
+53;menuiserie;Menuiserie;205;240;87;36.25;2026-11-09;False
+54;pv;Photovoltaïque;53;591;39;6.598985;2026-11-09;False
+54;pac;Pompes à chaleur;390;591;121;20.473773;2026-11-09;False
+54;isolation;Isolation;560;591;109;18.443316;2026-11-09;False
+54;chauffage;Chauffage;496;591;142;24.027073;2026-11-09;False
+54;menuiserie;Menuiserie;204;591;107;18.104907;2026-11-09;False
+55;pv;Photovoltaïque;21;499;16;3.206413;2026-11-09;False
+55;pac;Pompes à chaleur;131;499;50;10.02004;2026-11-09;False
+55;isolation;Isolation;215;499;57;11.422846;2026-11-09;False
+55;chauffage;Chauffage;228;499;63;12.625251;2026-11-09;False
+55;menuiserie;Menuiserie;77;499;55;11.022044;2026-11-09;False
+56;pv;Photovoltaïque;40;249;30;12.048193;2026-11-09;False
+56;pac;Pompes à chaleur;527;249;129;51.807229;2026-11-09;False
+56;isolation;Isolation;797;249;140;56.2249;2026-11-09;False
+56;chauffage;Chauffage;598;249;135;54.216867;2026-11-09;False
+56;menuiserie;Menuiserie;341;249;119;47.791165;2026-11-09;False
+57;pv;Photovoltaïque;60;725;37;5.103448;2026-11-09;False
+57;pac;Pompes à chaleur;469;725;133;18.344828;2026-11-09;False
+57;isolation;Isolation;710;725;142;19.586207;2026-11-09;False
+57;chauffage;Chauffage;668;725;155;21.37931;2026-11-09;False
+57;menuiserie;Menuiserie;221;725;121;16.689655;2026-11-09;False
+58;pv;Photovoltaïque;12;309;8;2.588997;2026-11-09;False
+58;pac;Pompes à chaleur;114;309;34;11.003236;2026-11-09;False
+58;isolation;Isolation;217;309;40;12.944984;2026-11-09;False
+58;chauffage;Chauffage;154;309;38;12.297735;2026-11-09;False
+58;menuiserie;Menuiserie;104;309;49;15.857605;2026-11-09;False
+59;pv;Photovoltaïque;97;647;63;9.737249;2026-11-09;False
+59;pac;Pompes à chaleur;800;647;211;32.612056;2026-11-09;False
+59;isolation;Isolation;2300;647;280;43.276662;2026-11-09;False
+59;chauffage;Chauffage;1082;647;259;40.030912;2026-11-09;False
+59;menuiserie;Menuiserie;903;647;291;44.976816;2026-11-09;False
+60;pv;Photovoltaïque;27;680;24;3.529412;2026-11-09;False
+60;pac;Pompes à chaleur;251;680;88;12.941176;2026-11-09;False
+60;isolation;Isolation;395;680;124;18.235294;2026-11-09;False
+60;chauffage;Chauffage;287;680;118;17.352941;2026-11-09;False
+60;menuiserie;Menuiserie;222;680;125;18.382353;2026-11-09;False
+61;pv;Photovoltaïque;19;381;17;4.461942;2026-11-09;False
+61;pac;Pompes à chaleur;208;381;69;18.110236;2026-11-09;False
+61;isolation;Isolation;553;381;110;28.871391;2026-11-09;False
+61;chauffage;Chauffage;282;381;77;20.209974;2026-11-09;False
+61;menuiserie;Menuiserie;217;381;97;25.459318;2026-11-09;False
+62;pv;Photovoltaïque;81;887;63;7.102593;2026-11-09;False
+62;pac;Pompes à chaleur;566;887;174;19.616685;2026-11-09;False
+62;isolation;Isolation;1800;887;265;29.875986;2026-11-09;False
+62;chauffage;Chauffage;742;887;215;24.239008;2026-11-09;False
+62;menuiserie;Menuiserie;679;887;260;29.312289;2026-11-09;False
+63;pv;Photovoltaïque;61;463;37;7.991361;2026-11-09;False
+63;pac;Pompes à chaleur;371;463;106;22.894168;2026-11-09;False
+63;isolation;Isolation;628;463;132;28.509719;2026-11-09;False
+63;chauffage;Chauffage;502;463;130;28.077754;2026-11-09;False
+63;menuiserie;Menuiserie;276;463;113;24.406048;2026-11-09;False
+64;pv;Photovoltaïque;89;545;59;10.825688;2026-11-09;False
+64;pac;Pompes à chaleur;412;545;110;20.183486;2026-11-09;False
+64;isolation;Isolation;455;545;135;24.770642;2026-11-09;False
+64;chauffage;Chauffage;414;545;129;23.669725;2026-11-09;False
+64;menuiserie;Menuiserie;224;545;116;21.284404;2026-11-09;False
+65;pv;Photovoltaïque;28;469;21;4.477612;2026-11-09;False
+65;pac;Pompes à chaleur;134;469;39;8.315565;2026-11-09;False
+65;isolation;Isolation;192;469;57;12.153518;2026-11-09;False
+65;chauffage;Chauffage;145;469;45;9.594883;2026-11-09;False
+65;menuiserie;Menuiserie;83;469;49;10.447761;2026-11-09;False
+66;pv;Photovoltaïque;104;226;40;17.699115;2026-11-09;False
+66;pac;Pompes à chaleur;223;226;36;15.929204;2026-11-09;False
+66;isolation;Isolation;218;226;49;21.681416;2026-11-09;False
+66;chauffage;Chauffage;211;226;43;19.026549;2026-11-09;False
+66;menuiserie;Menuiserie;114;226;49;21.681416;2026-11-09;False
+67;pv;Photovoltaïque;131;514;77;14.980545;2026-11-09;False
+67;pac;Pompes à chaleur;622;514;163;31.712062;2026-11-09;False
+67;isolation;Isolation;1119;514;186;36.18677;2026-11-09;False
+67;chauffage;Chauffage;792;514;189;36.770428;2026-11-09;False
+67;menuiserie;Menuiserie;346;514;162;31.51751;2026-11-09;False
+68;pv;Photovoltaïque;78;366;48;13.114754;2026-11-09;False
+68;pac;Pompes à chaleur;378;366;98;26.775956;2026-11-09;False
+68;isolation;Isolation;726;366;110;30.054645;2026-11-09;False
+68;chauffage;Chauffage;577;366;115;31.420765;2026-11-09;False
+68;menuiserie;Menuiserie;233;366;107;29.234973;2026-11-09;False
+69;pv;Photovoltaïque;219;266;96;36.090226;2026-11-09;False
+69;pac;Pompes à chaleur;848;266;148;55.639098;2026-11-09;False
+69;isolation;Isolation;1171;266;158;59.398496;2026-11-09;False
+69;chauffage;Chauffage;925;266;159;59.774436;2026-11-09;False
+69;menuiserie;Menuiserie;541;266;154;57.894737;2026-11-09;False
+70;pv;Photovoltaïque;29;536;24;4.477612;2026-11-09;False
+70;pac;Pompes à chaleur;154;536;54;10.074627;2026-11-09;False
+70;isolation;Isolation;221;536;49;9.141791;2026-11-09;False
+70;chauffage;Chauffage;265;536;62;11.567164;2026-11-09;False
+70;menuiserie;Menuiserie;85;536;61;11.380597;2026-11-09;False
+71;pv;Photovoltaïque;63;563;38;6.749556;2026-11-09;False
+71;pac;Pompes à chaleur;427;563;135;23.978686;2026-11-09;False
+71;isolation;Isolation;591;563;133;23.623446;2026-11-09;False
+71;chauffage;Chauffage;561;563;144;25.577265;2026-11-09;False
+71;menuiserie;Menuiserie;280;563;150;26.642984;2026-11-09;False
+72;pv;Photovoltaïque;40;352;28;7.954545;2026-11-09;False
+72;pac;Pompes à chaleur;341;352;95;26.988636;2026-11-09;False
+72;isolation;Isolation;532;352;113;32.102273;2026-11-09;False
+72;chauffage;Chauffage;489;352;110;31.25;2026-11-09;False
+72;menuiserie;Menuiserie;232;352;109;30.965909;2026-11-09;False
+73;pv;Photovoltaïque;46;273;35;12.820513;2026-11-09;False
+73;pac;Pompes à chaleur;274;273;71;26.007326;2026-11-09;False
+73;isolation;Isolation;598;273;87;31.868132;2026-11-09;False
+73;chauffage;Chauffage;351;273;86;31.501832;2026-11-09;False
+73;menuiserie;Menuiserie;269;273;96;35.164835;2026-11-09;False
+74;pv;Photovoltaïque;51;279;33;11.827957;2026-11-09;False
+74;pac;Pompes à chaleur;331;279;98;35.125448;2026-11-09;False
+74;isolation;Isolation;452;279;101;36.200717;2026-11-09;False
+74;chauffage;Chauffage;358;279;109;39.0681;2026-11-09;False
+74;menuiserie;Menuiserie;245;279;93;33.333333;2026-11-09;False
+75;pv;Photovoltaïque;65;1;1;100.0;2026-11-09;False
+75;pac;Pompes à chaleur;313;1;1;100.0;2026-11-09;False
+75;isolation;Isolation;518;1;1;100.0;2026-11-09;False
+75;chauffage;Chauffage;350;1;1;100.0;2026-11-09;False
+75;menuiserie;Menuiserie;164;1;1;100.0;2026-11-09;False
+76;pv;Photovoltaïque;37;707;25;3.536068;2026-11-09;False
+76;pac;Pompes à chaleur;409;707;118;16.69024;2026-11-09;False
+76;isolation;Isolation;830;707;183;25.884017;2026-11-09;False
+76;chauffage;Chauffage;575;707;145;20.509194;2026-11-09;False
+76;menuiserie;Menuiserie;434;707;188;26.591231;2026-11-09;False
+77;pv;Photovoltaïque;51;507;43;8.481262;2026-11-09;False
+77;pac;Pompes à chaleur;529;507;132;26.035503;2026-11-09;False
+77;isolation;Isolation;1192;507;146;28.796844;2026-11-09;False
+77;chauffage;Chauffage;641;507;152;29.980276;2026-11-09;False
+77;menuiserie;Menuiserie;471;507;153;30.177515;2026-11-09;False
+78;pv;Photovoltaïque;22;259;19;7.335907;2026-11-09;False
+78;pac;Pompes à chaleur;350;259;92;35.521236;2026-11-09;False
+78;isolation;Isolation;660;259;102;39.382239;2026-11-09;False
+78;chauffage;Chauffage;408;259;110;42.471042;2026-11-09;False
+78;menuiserie;Menuiserie;270;259;99;38.223938;2026-11-09;False
+79;pv;Photovoltaïque;68;252;42;16.666667;2026-11-09;False
+79;pac;Pompes à chaleur;270;252;72;28.571429;2026-11-09;False
+79;isolation;Isolation;371;252;75;29.761905;2026-11-09;False
+79;chauffage;Chauffage;400;252;81;32.142857;2026-11-09;False
+79;menuiserie;Menuiserie;162;252;73;28.968254;2026-11-09;False
+80;pv;Photovoltaïque;21;771;17;2.204929;2026-11-09;False
+80;pac;Pompes à chaleur;202;771;66;8.560311;2026-11-09;False
+80;isolation;Isolation;431;771;102;13.229572;2026-11-09;False
+80;chauffage;Chauffage;293;771;87;11.284047;2026-11-09;False
+80;menuiserie;Menuiserie;189;771;99;12.840467;2026-11-09;False
+81;pv;Photovoltaïque;92;314;46;14.649682;2026-11-09;False
+81;pac;Pompes à chaleur;378;314;83;26.433121;2026-11-09;False
+81;isolation;Isolation;337;314;72;22.929936;2026-11-09;False
+81;chauffage;Chauffage;398;314;87;27.707006;2026-11-09;False
+81;menuiserie;Menuiserie;144;314;73;23.248408;2026-11-09;False
+82;pv;Photovoltaïque;56;195;26;13.333333;2026-11-09;False
+82;pac;Pompes à chaleur;249;195;50;25.641026;2026-11-09;False
+82;isolation;Isolation;169;195;37;18.974359;2026-11-09;False
+82;chauffage;Chauffage;215;195;55;28.205128;2026-11-09;False
+82;menuiserie;Menuiserie;68;195;37;18.974359;2026-11-09;False
+83;pv;Photovoltaïque;101;153;52;33.986928;2026-11-09;False
+83;pac;Pompes à chaleur;317;153;59;38.562092;2026-11-09;False
+83;isolation;Isolation;251;153;43;28.104575;2026-11-09;False
+83;chauffage;Chauffage;260;153;65;42.48366;2026-11-09;False
+83;menuiserie;Menuiserie;162;153;51;33.333333;2026-11-09;False
+84;pv;Photovoltaïque;92;151;41;27.152318;2026-11-09;False
+84;pac;Pompes à chaleur;364;151;69;45.695364;2026-11-09;False
+84;isolation;Isolation;312;151;55;36.423841;2026-11-09;False
+84;chauffage;Chauffage;291;151;73;48.344371;2026-11-09;False
+84;menuiserie;Menuiserie;146;151;51;33.774834;2026-11-09;False
+85;pv;Photovoltaïque;170;253;88;34.782609;2026-11-09;False
+85;pac;Pompes à chaleur;605;253;124;49.011858;2026-11-09;False
+85;isolation;Isolation;1041;253;168;66.403162;2026-11-09;False
+85;chauffage;Chauffage;797;253;134;52.964427;2026-11-09;False
+85;menuiserie;Menuiserie;485;253;160;63.241107;2026-11-09;False
+86;pv;Photovoltaïque;56;265;34;12.830189;2026-11-09;False
+86;pac;Pompes à chaleur;313;265;79;29.811321;2026-11-09;False
+86;isolation;Isolation;223;265;63;23.773585;2026-11-09;False
+86;chauffage;Chauffage;386;265;89;33.584906;2026-11-09;False
+86;menuiserie;Menuiserie;124;265;62;23.396226;2026-11-09;False
+87;pv;Photovoltaïque;58;195;29;14.871795;2026-11-09;False
+87;pac;Pompes à chaleur;259;195;56;28.717949;2026-11-09;False
+87;isolation;Isolation;311;195;52;26.666667;2026-11-09;False
+87;chauffage;Chauffage;360;195;65;33.333333;2026-11-09;False
+87;menuiserie;Menuiserie;139;195;51;26.153846;2026-11-09;False
+88;pv;Photovoltaïque;46;506;35;6.916996;2026-11-09;False
+88;pac;Pompes à chaleur;292;506;99;19.565217;2026-11-09;False
+88;isolation;Isolation;600;506;123;24.3083;2026-11-09;False
+88;chauffage;Chauffage;541;506;112;22.134387;2026-11-09;False
+88;menuiserie;Menuiserie;212;506;107;21.146245;2026-11-09;False
+89;pv;Photovoltaïque;25;423;17;4.018913;2026-11-09;False
+89;pac;Pompes à chaleur;206;423;76;17.966903;2026-11-09;False
+89;isolation;Isolation;338;423;88;20.803783;2026-11-09;False
+89;chauffage;Chauffage;336;423;88;20.803783;2026-11-09;False
+89;menuiserie;Menuiserie;179;423;101;23.877069;2026-11-09;False
+90;pv;Photovoltaïque;10;101;8;7.920792;2026-11-09;False
+90;pac;Pompes à chaleur;64;101;21;20.792079;2026-11-09;False
+90;isolation;Isolation;161;101;29;28.712871;2026-11-09;False
+90;chauffage;Chauffage;78;101;24;23.762376;2026-11-09;False
+90;menuiserie;Menuiserie;29;101;21;20.792079;2026-11-09;False
+91;pv;Photovoltaïque;32;194;22;11.340206;2026-11-09;False
+91;pac;Pompes à chaleur;411;194;94;48.453608;2026-11-09;False
+91;isolation;Isolation;1110;194;100;51.546392;2026-11-09;False
+91;chauffage;Chauffage;464;194;104;53.608247;2026-11-09;False
+91;menuiserie;Menuiserie;479;194;99;51.030928;2026-11-09;False
+92;pv;Photovoltaïque;43;36;16;44.444444;2026-11-09;False
+92;pac;Pompes à chaleur;236;36;31;86.111111;2026-11-09;False
+92;isolation;Isolation;557;36;32;88.888889;2026-11-09;False
+92;chauffage;Chauffage;265;36;33;91.666667;2026-11-09;False
+92;menuiserie;Menuiserie;192;36;30;83.333333;2026-11-09;False
+93;pv;Photovoltaïque;47;39;19;48.717949;2026-11-09;False
+93;pac;Pompes à chaleur;348;39;32;82.051282;2026-11-09;False
+93;isolation;Isolation;701;39;38;97.435897;2026-11-09;False
+93;chauffage;Chauffage;386;39;36;92.307692;2026-11-09;False
+93;menuiserie;Menuiserie;195;39;36;92.307692;2026-11-09;False
+94;pv;Photovoltaïque;47;47;19;40.425532;2026-11-09;False
+94;pac;Pompes à chaleur;360;47;41;87.234043;2026-11-09;False
+94;isolation;Isolation;1046;47;44;93.617021;2026-11-09;False
+94;chauffage;Chauffage;462;47;43;91.489362;2026-11-09;False
+94;menuiserie;Menuiserie;321;47;41;87.234043;2026-11-09;False
+95;pv;Photovoltaïque;37;183;18;9.836066;2026-11-09;False
+95;pac;Pompes à chaleur;301;183;68;37.15847;2026-11-09;False
+95;isolation;Isolation;607;183;72;39.344262;2026-11-09;False
+95;chauffage;Chauffage;351;183;76;41.530055;2026-11-09;False
+95;menuiserie;Menuiserie;219;183;66;36.065574;2026-11-09;False
+971;pv;Photovoltaïque;17;32;10;31.25;2026-11-09;False
+971;pac;Pompes à chaleur;8;32;3;9.375;2026-11-09;False
+971;isolation;Isolation;25;32;6;18.75;2026-11-09;False
+971;chauffage;Chauffage;16;32;7;21.875;2026-11-09;False
+971;menuiserie;Menuiserie;2;32;1;3.125;2026-11-09;False
+972;pv;Photovoltaïque;17;34;9;26.470588;2026-11-09;False
+972;pac;Pompes à chaleur;7;34;3;8.823529;2026-11-09;False
+972;isolation;Isolation;25;34;6;17.647059;2026-11-09;False
+972;chauffage;Chauffage;9;34;4;11.764706;2026-11-09;False
+972;menuiserie;Menuiserie;0;34;0;0.0;2026-11-09;False
+973;pv;Photovoltaïque;7;22;4;18.181818;2026-11-09;False
+973;pac;Pompes à chaleur;1;22;1;4.545455;2026-11-09;False
+973;isolation;Isolation;4;22;1;4.545455;2026-11-09;False
+973;chauffage;Chauffage;9;22;5;22.727273;2026-11-09;False
+973;menuiserie;Menuiserie;0;22;0;0.0;2026-11-09;False
+974;pv;Photovoltaïque;50;24;12;50.0;2026-11-09;False
+974;pac;Pompes à chaleur;27;24;9;37.5;2026-11-09;False
+974;isolation;Isolation;92;24;15;62.5;2026-11-09;False
+974;chauffage;Chauffage;39;24;13;54.166667;2026-11-09;False
+974;menuiserie;Menuiserie;6;24;5;20.833333;2026-11-09;False
+975;pv;Photovoltaïque;0;2;0;0.0;2026-11-09;False
+975;pac;Pompes à chaleur;0;2;0;0.0;2026-11-09;False
+975;isolation;Isolation;0;2;0;0.0;2026-11-09;False
+975;chauffage;Chauffage;0;2;0;0.0;2026-11-09;False
+975;menuiserie;Menuiserie;0;2;0;0.0;2026-11-09;False
+976;pv;Photovoltaïque;1;17;1;5.882353;2026-11-09;False
+976;pac;Pompes à chaleur;1;17;1;5.882353;2026-11-09;False
+976;isolation;Isolation;0;17;0;0.0;2026-11-09;False
+976;chauffage;Chauffage;2;17;2;11.764706;2026-11-09;False
+976;menuiserie;Menuiserie;0;17;0;0.0;2026-11-09;False
+977;pv;Photovoltaïque;0;1;0;0.0;2026-11-09;False
+977;pac;Pompes à chaleur;0;1;0;0.0;2026-11-09;False
+977;isolation;Isolation;0;1;0;0.0;2026-11-09;False
+977;chauffage;Chauffage;0;1;0;0.0;2026-11-09;False
+977;menuiserie;Menuiserie;0;1;0;0.0;2026-11-09;False
+978;pv;Photovoltaïque;0;1;0;0.0;2026-11-09;False
+978;pac;Pompes à chaleur;1;1;1;100.0;2026-11-09;False
+978;isolation;Isolation;0;1;0;0.0;2026-11-09;False
+978;chauffage;Chauffage;1;1;1;100.0;2026-11-09;False
+978;menuiserie;Menuiserie;0;1;0;0.0;2026-11-09;False
+984;pv;Photovoltaïque;0;5;0;0.0;2026-11-09;False
+984;pac;Pompes à chaleur;0;5;0;0.0;2026-11-09;False
+984;isolation;Isolation;0;5;0;0.0;2026-11-09;False
+984;chauffage;Chauffage;0;5;0;0.0;2026-11-09;False
+984;menuiserie;Menuiserie;0;5;0;0.0;2026-11-09;False
+986;pv;Photovoltaïque;0;3;0;0.0;2026-11-09;False
+986;pac;Pompes à chaleur;0;3;0;0.0;2026-11-09;False
+986;isolation;Isolation;0;3;0;0.0;2026-11-09;False
+986;chauffage;Chauffage;0;3;0;0.0;2026-11-09;False
+986;menuiserie;Menuiserie;0;3;0;0.0;2026-11-09;False
+987;pv;Photovoltaïque;0;48;0;0.0;2026-11-09;False
+987;pac;Pompes à chaleur;0;48;0;0.0;2026-11-09;False
+987;isolation;Isolation;0;48;0;0.0;2026-11-09;False
+987;chauffage;Chauffage;0;48;0;0.0;2026-11-09;False
+987;menuiserie;Menuiserie;0;48;0;0.0;2026-11-09;False
+988;pv;Photovoltaïque;0;33;0;0.0;2026-11-09;False
+988;pac;Pompes à chaleur;0;33;0;0.0;2026-11-09;False
+988;isolation;Isolation;0;33;0;0.0;2026-11-09;False
+988;chauffage;Chauffage;0;33;0;0.0;2026-11-09;False
+988;menuiserie;Menuiserie;0;33;0;0.0;2026-11-09;False
+989;pv;Photovoltaïque;0;1;0;0.0;2026-11-09;False
+989;pac;Pompes à chaleur;0;1;0;0.0;2026-11-09;False
+989;isolation;Isolation;0;1;0;0.0;2026-11-09;False
+989;chauffage;Chauffage;0;1;0;0.0;2026-11-09;False
+989;menuiserie;Menuiserie;0;1;0;0.0;2026-11-09;False

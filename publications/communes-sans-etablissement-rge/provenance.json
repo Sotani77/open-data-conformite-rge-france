@@ -2,9 +2,9 @@
   "mode": "live",
   "partial": false,
   "ademe_url": "https://data.ademe.fr/data-fair/api/v1/datasets/liste-des-entreprises-rge-2",
-  "ademe_data_updated_at": "2026-11-02T04:01:35.364Z",
-  "ademe_total": 157758,
-  "collected_at": "2026-11-02T18:12:12.642620+00:00",
+  "ademe_data_updated_at": "2026-11-09T04:01:53.370Z",
+  "ademe_total": 157345,
+  "collected_at": "2026-11-09T16:33:14.211159+00:00",
   "geo_url": "https://geo.api.gouv.fr/communes",
   "population_millesime": "non fourni par l'API Geo ; date de collecte conservée",
   "ademe_license": {
@@ -12,7 +12,7 @@
     "href": "https://www.etalab.gouv.fr/licence-ouverte-open-licence"
   },
   "input_sha256": {
-    "rge.json": "ef76fb29ee22809166b624355a3f66839ea6e73d65e30a109e8bb182b8339d04",
+    "rge.json": "4577394e6e2b05f990dbd1152c221002b6278bad349eb728e8ca02d61c5a408d",
     "communes.json": "8db6d465c02d13f72086f91e913823f7d45dfa1f22e93242d03412f50cec86b6",
     "regions.json": "f89eab91c42fae17ddfc5ea779607c7c0ab3f91d99cdd37e4d6561b8de1b456c"
   },
@@ -23,7 +23,7 @@
     "year": 2023,
     "geography_year": 2026
   },
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-09",
   "methodology_version": "1.0.0",
   "housing_mode": "insee",
   "thresholds_per_1000_housing": [
@@ -33,6 +33,6 @@
   "household_size": null,
   "transformation": "communes-sans-etablissement-rge",
   "transformation_version": "1.0.0",
-  "source_manifest_sha256": "3258233526198017b0318bb7cff12fd219beec4a70c717cc8b908806f11e72c8",
-  "source_parquet_sha256": "d96d26f1007efc1d9b9834ac4055d460785473c1afb7dbf8fbea26f805132109"
+  "source_manifest_sha256": "914e3ccc12c3d29dc05594bb8e511a08ddf6ba32cf8facf07581ef85b0ab3a7f",
+  "source_parquet_sha256": "b0c6a334bfae80da3e2fd65059f5342fe33ab5ef22b678a8d9b2919dceb9d621"
 }

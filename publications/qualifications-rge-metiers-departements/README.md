@@ -6,7 +6,7 @@ Ce jeu adopte un format long : une ligne par département ou territoire et par f
 
 ## Observation et sources
 
-Observation au **2026-11-02**. Ce jeu dérivé est produit par Legibat, organisme privé indépendant, à partir de la [cartographie communale source](https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements). La collecte complète utilise la [liste RGE de l'ADEME](https://data.ademe.fr/data-fair/api/v1/datasets/liste-des-entreprises-rge-2), les [communes de l'API Geo](https://geo.api.gouv.fr/communes) et le [comparateur de territoires INSEE](https://www.insee.fr/fr/statistiques/2521169). Les logements correspondent au recensement 2023, géographie 2026. Le millésime de population n'est pas fourni par l'API Geo utilisée ; seule sa date de collecte est attestée.
+Observation au **2026-11-09**. Ce jeu dérivé est produit par Legibat, organisme privé indépendant, à partir de la [cartographie communale source](https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements). La collecte complète utilise la [liste RGE de l'ADEME](https://data.ademe.fr/data-fair/api/v1/datasets/liste-des-entreprises-rge-2), les [communes de l'API Geo](https://geo.api.gouv.fr/communes) et le [comparateur de territoires INSEE](https://www.insee.fr/fr/statistiques/2521169). Les logements correspondent au recensement 2023, géographie 2026. Le millésime de population n'est pas fourni par l'API Geo utilisée ; seule sa date de collecte est attestée.
 
 ## Traitement reproductible
 

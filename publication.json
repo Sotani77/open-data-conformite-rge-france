@@ -1,5 +1,5 @@
 {
-  "status": "data-gouv-published",
+  "status": "published",
   "dry_run": false,
   "dataset_id": "6adc25ea40eac239ba1c33ba",
   "dataset_url": "https://www.data.gouv.fr/datasets/cartographie-2026-de-la-couverture-dartisans-rge-par-commune-vs-nombre-de-logements",
@@ -225,5 +225,8 @@
         }
       ]
     }
-  }
+  },
+  "github_data_commit": "618ca72aebb0db4af5436ac7b90f9282fcc3db22",
+  "pages_url": "https://sotani77.github.io/open-data-conformite-rge-france/",
+  "pages_status": "built"
 }

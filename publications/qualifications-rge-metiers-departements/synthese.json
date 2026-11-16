@@ -6,32 +6,32 @@
     {
       "famille": "pv",
       "famille_travaux": "Photovoltaïque",
-      "nb_qualifications": 5895,
-      "nb_communes_avec_qualification": 3415
+      "nb_qualifications": 5816,
+      "nb_communes_avec_qualification": 3376
     },
     {
       "famille": "pac",
       "famille_travaux": "Pompes à chaleur",
-      "nb_qualifications": 31506,
-      "nb_communes_avec_qualification": 7906
+      "nb_qualifications": 31449,
+      "nb_communes_avec_qualification": 7902
     },
     {
       "famille": "isolation",
       "famille_travaux": "Isolation",
-      "nb_qualifications": 50499,
-      "nb_communes_avec_qualification": 8856
+      "nb_qualifications": 50350,
+      "nb_communes_avec_qualification": 8837
     },
     {
       "famille": "chauffage",
       "famille_travaux": "Chauffage",
-      "nb_qualifications": 38145,
-      "nb_communes_avec_qualification": 9057
+      "nb_qualifications": 37947,
+      "nb_communes_avec_qualification": 9042
     },
     {
       "famille": "menuiserie",
       "famille_travaux": "Menuiserie",
-      "nb_qualifications": 20785,
-      "nb_communes_avec_qualification": 8488
+      "nb_qualifications": 20744,
+      "nb_communes_avec_qualification": 8497
     }
   ]
 }

@@ -10,27 +10,27 @@
 
 | Région | Communes | Entreprises distinctes | Établissements | Entreprises / 1 000 logements |
 |---|---:|---:|---:|---:|
-| Guadeloupe | 32 | 42 | 42 | 0,175 |
+| Guadeloupe | 32 | 40 | 40 | 0,167 |
 | Martinique | 34 | 32 | 32 | 0,144 |
 | Guyane | 22 | 19 | 19 | 0,184 |
 | La Réunion | 24 | 111 | 112 | 0,273 |
 | Mayotte | 17 | 3 | 3 | ND |
-| Île-de-France | 1266 | 4591 | 4633 | 0,748 |
-| Centre-Val de Loire | 1754 | 2140 | 2168 | 1,497 |
-| Bourgogne-Franche-Comté | 3685 | 2827 | 2852 | 1,752 |
-| Normandie | 2644 | 2670 | 2712 | 1,418 |
-| Hauts-de-France | 3782 | 3653 | 3702 | 1,228 |
-| Grand Est | 5115 | 5048 | 5096 | 1,708 |
-| Pays de la Loire | 1228 | 3819 | 3865 | 1,783 |
-| Bretagne | 1202 | 3306 | 3355 | 1,627 |
-| Nouvelle-Aquitaine | 4293 | 5310 | 5384 | 1,435 |
-| Occitanie | 4446 | 5228 | 5282 | 1,376 |
-| Auvergne-Rhône-Alpes | 4025 | 8165 | 8230 | 1,730 |
-| Provence-Alpes-Côte d'Azur | 946 | 2649 | 2676 | 0,815 |
-| Corse | 360 | 317 | 317 | 1,174 |
+| Île-de-France | 1266 | 4571 | 4614 | 0,744 |
+| Centre-Val de Loire | 1754 | 2132 | 2160 | 1,491 |
+| Bourgogne-Franche-Comté | 3685 | 2821 | 2846 | 1,748 |
+| Normandie | 2644 | 2659 | 2700 | 1,412 |
+| Hauts-de-France | 3782 | 3647 | 3696 | 1,226 |
+| Grand Est | 5115 | 5036 | 5084 | 1,704 |
+| Pays de la Loire | 1228 | 3819 | 3864 | 1,783 |
+| Bretagne | 1202 | 3305 | 3354 | 1,627 |
+| Nouvelle-Aquitaine | 4293 | 5294 | 5368 | 1,431 |
+| Occitanie | 4446 | 5223 | 5276 | 1,375 |
+| Auvergne-Rhône-Alpes | 4025 | 8121 | 8186 | 1,721 |
+| Provence-Alpes-Côte d'Azur | 946 | 2644 | 2672 | 0,814 |
+| Corse | 360 | 318 | 319 | 1,177 |
 | Territoire 975 | 2 | 0 | 0 | ND |
 | Territoire 977 | 1 | 0 | 0 | ND |
-| Territoire 978 | 1 | 1 | 1 | ND |
+| Territoire 978 | 1 | 0 | 0 | ND |
 | Territoire 984 | 5 | 0 | 0 | ND |
 | Territoire 986 | 3 | 0 | 0 | ND |
 | Territoire 987 | 48 | 0 | 0 | ND |
@@ -66,7 +66,7 @@ Activer l'environnement avant l'installation, comme décrit dans le guide. La co
 
 ## Objet et intérêt public
 
-Cette édition 2026, observée au 2026-11-09, rapproche la localisation des professionnels de travaux RGE avec la population et le parc de logements des communes françaises. Elle propose un indicateur descriptif de présence locale pour faciliter l'exploration des territoires, les diagnostics préalables et les réutilisations citoyennes. Legibat réalise ce rapprochement en tant que producteur privé. L'ADEME, l'INSEE et les administrations fournissent les sources ; elles ne valident ni les seuils choisis ni les conclusions de cette étude dérivée.
+Cette édition 2026, observée au 2026-11-16, rapproche la localisation des professionnels de travaux RGE avec la population et le parc de logements des communes françaises. Elle propose un indicateur descriptif de présence locale pour faciliter l'exploration des territoires, les diagnostics préalables et les réutilisations citoyennes. Legibat réalise ce rapprochement en tant que producteur privé. L'ADEME, l'INSEE et les administrations fournissent les sources ; elles ne valident ni les seuils choisis ni les conclusions de cette étude dérivée.
 
 La rénovation énergétique mobilise plusieurs métiers. Une présence locale faible peut justifier une analyse complémentaire des entreprises voisines, des transports et de l'organisation des chantiers. Le jeu contribue à informer les ménages et les acteurs territoriaux dans un contexte de prévention des fraudes aux travaux. Il ne permet cependant pas de qualifier une entreprise de frauduleuse, de contrôler sa garantie décennale, de confirmer une attestation Consuel, ni d'estimer un délai d'intervention. La mention RGE ne remplace pas les vérifications documentaires adaptées à chaque chantier.
 
@@ -90,7 +90,7 @@ Ces appellations correspondent à des seuils éditoriaux configurables, sans val
 
 ## Contrôles, résultats et réutilisation
 
-L'exécution contient 34 969 communes, 50 481 établissements et 49 702 entreprises distinctes rattachées, après filtrage. Le rapport précise les lignes rejetées, les correspondances ambiguës et les logements manquants. Les agrégats départementaux et régionaux recomptent les entreprises distinctes à chaque niveau. Ils ne sont pas la simple somme des entreprises communales. Pour chaque ratio agrégé, le numérateur est limité aux communes ayant le dénominateur correspondant, afin de conserver un périmètre comparable.
+L'exécution contient 34 969 communes, 50 345 établissements et 49 568 entreprises distinctes rattachées, après filtrage. Le rapport précise les lignes rejetées, les correspondances ambiguës et les logements manquants. Les agrégats départementaux et régionaux recomptent les entreprises distinctes à chaque niveau. Ils ne sont pas la simple somme des entreprises communales. Pour chaque ratio agrégé, le numérateur est limité aux communes ayant le dénominateur correspondant, afin de conserver un périmètre comparable.
 
 Les CSV UTF-8 sont disponibles avec séparateur point-virgule et virgule ; les nombres utilisent un point décimal. Les codes géographiques doivent être importés comme texte, notamment pour conserver les zéros initiaux et les codes corses. Le Parquet préserve les types et valeurs nulles. Les fichiers JSON apportent les synthèses, la provenance et les contrôles. Le TableSchema décrit les colonnes et les contraintes, et le manifeste donne les empreintes SHA-256 des exports. Les données individuelles, coordonnées de contact et SIRET ne figurent pas dans les exports publics.
 
